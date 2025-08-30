@@ -1,0 +1,23 @@
+name: Build Phoenix iCal
+on:
+  schedule:
+    - cron: "7 5 * * *"  # daily 05:07 Europe/London
+  workflow_dispatch: {}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests beautifulsoup4 icalendar
+      - run: python build_calendar.py phoenix.ics
+      - name: Commit if changed
+        run: |
+          git config user.name "phoenix-ical-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add phoenix.ics
+          git diff --quiet && echo "No changes" || git commit -m "Update phoenix.ics"
+          git push
