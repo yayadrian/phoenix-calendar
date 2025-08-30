@@ -20,4 +20,5 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git add phoenix.ics
           git diff --quiet && echo "No changes" || git commit -m "Update phoenix.ics"
+          git pull --rebase origin main
           git push
