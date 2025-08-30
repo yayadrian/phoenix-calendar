@@ -8,10 +8,45 @@ from icalendar import Calendar, Event
 BASE = "https://www.phoenix.org.uk"
 WHATSON = f"{BASE}/whats-on/"
 TZ = ZoneInfo("Europe/London")
-HEADERS = {"User-Agent": "PhoenixICalBot/1.0 (+github.com/youruser/phoenix-ical)"}
+HEADERS = {"User-Agent": "PhoenixICalBot/1.0 (+github.com/yayadrian/phoenix-ical)"}
+
+# Build a resilient session with retries/backoff to tolerate transient timeouts in CI
+def _build_session():
+    # Import locally to keep top-level imports minimal and resilient
+    session = requests.Session()
+    try:
+        import importlib
+        HTTPAdapter = getattr(importlib.import_module("requests.adapters"), "HTTPAdapter")
+        Retry = getattr(importlib.import_module("urllib3.util.retry"), "Retry")
+        # Handle urllib3 v1 vs v2 differences (allowed_methods vs method_whitelist)
+        retry_kwargs = dict(
+            total=5,
+            connect=3,
+            read=3,
+            backoff_factor=1.5,
+            status_forcelist=(429, 500, 502, 503, 504),
+            raise_on_status=False,
+        )
+        try:
+            # urllib3 v2
+            retries = Retry(allowed_methods={"HEAD", "GET", "OPTIONS"}, **retry_kwargs)
+        except TypeError:
+            # urllib3 v1
+            retries = Retry(method_whitelist={"HEAD", "GET", "OPTIONS"}, **retry_kwargs)  # type: ignore[arg-type]
+        adapter = HTTPAdapter(max_retries=retries)
+        session.mount("https://", adapter)
+        session.mount("http://", adapter)
+    except Exception:
+        # Fallback: plain session (no retries)
+        pass
+    session.headers.update(HEADERS)
+    return session
+
+SESSION = _build_session()
 
 def get_soup(url):
-    r = requests.get(url, headers=HEADERS, timeout=20)
+    # Split connect/read timeouts: tolerate slower responses on GitHub-hosted runners
+    r = SESSION.get(url, timeout=(10, 45))
     r.raise_for_status()
     return BeautifulSoup(r.text, "html.parser")
 
@@ -26,7 +61,7 @@ def iter_whats_on_pages():
         if not next_link:
             break
         page += 1
-        time.sleep(1)
+        time.sleep(1.5)
 
 def find_programme_links(soup):
     # Programme pages look like /whats-on/programme/<slug>/
@@ -150,7 +185,7 @@ def build_calendar():
     programme_urls = set()
     for soup in iter_whats_on_pages():
         programme_urls |= set(find_programme_links(soup))
-        time.sleep(1)
+        time.sleep(1.5)
 
     for url in sorted(programme_urls):
         psoup = get_soup(url)
@@ -173,7 +208,7 @@ def build_calendar():
             if desc:
                 ev.add("description", desc)
             cal.add_component(ev)
-        time.sleep(1)
+    time.sleep(1.5)
 
     return cal
 
