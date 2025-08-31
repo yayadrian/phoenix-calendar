@@ -1,4 +1,10 @@
 name: Build Phoenix iCal
+# This workflow scrapes Phoenix Leicester listings and updates the calendar file.
+# Improvements made:
+# - Only commits when actual changes are detected (prevents spurious commits)
+# - Robust git workflow with conflict resolution 
+# - Timeouts and caching for reliability
+# - Handles network failures gracefully with built-in retries
 on:
   schedule:
     - cron: "7 5 * * *"  # daily 05:07 Europe/London
