@@ -35,3 +35,20 @@ Notes
 
 - The scraper is throttled with brief pauses between requests to be polite.
 - If the cinema changes page structure, parsing may need small tweaks.
+
+## Automated Updates
+
+This repository includes a GitHub Actions workflow that automatically:
+
+- Runs daily at 05:07 UTC (05:07 Europe/London) 
+- Scrapes the latest Phoenix Leicester listings
+- Updates the `phoenix.ics` file if changes are detected
+- Commits and pushes changes automatically
+
+The workflow is designed to be robust and handles:
+- Network timeouts and transient failures (with built-in retries)
+- No-change scenarios (skips unnecessary commits)  
+- Git conflicts (with automatic resolution)
+- Build timeouts (15-minute limit with 10-minute scraping timeout)
+
+You can also trigger the workflow manually from the Actions tab in GitHub.

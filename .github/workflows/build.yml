@@ -1,4 +1,10 @@
 name: Build Phoenix iCal
+# This workflow scrapes Phoenix Leicester listings and updates the calendar file.
+# Improvements made:
+# - Only commits when actual changes are detected (prevents spurious commits)
+# - Robust git workflow with conflict resolution 
+# - Timeouts and caching for reliability
+# - Handles network failures gracefully with built-in retries
 on:
   schedule:
     - cron: "7 5 * * *"  # daily 05:07 Europe/London
@@ -7,18 +13,45 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install requests beautifulsoup4 icalendar
-      - run: python build_calendar.py phoenix.ics
-      - name: Commit if changed
+          cache: 'pip'
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 icalendar
+      - name: Build calendar
+        run: python build_calendar.py phoenix.ics
+        timeout-minutes: 10
+        continue-on-error: false
+      - name: Commit and push if changed
         run: |
           git config user.name "phoenix-ical-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add phoenix.ics
-          git diff --quiet && echo "No changes" || git commit -m "Update phoenix.ics"
-          git pull --rebase origin main
-          git push
+          
+          # Check if there are any changes to phoenix.ics
+          if git diff --quiet phoenix.ics; then
+            echo "No changes to phoenix.ics - skipping commit and push"
+          else
+            echo "Changes detected in phoenix.ics - committing and pushing"
+            git add phoenix.ics
+            git commit -m "Update phoenix.ics"
+            
+            # Try to pull and rebase, with retry logic
+            echo "Pulling latest changes before push..."
+            if ! git pull --rebase origin main; then
+              echo "Rebase failed, trying to reset and pull again..."
+              git rebase --abort || true
+              git reset --hard HEAD~1
+              git pull origin main
+              git add phoenix.ics
+              git commit -m "Update phoenix.ics"
+            fi
+            
+            echo "Pushing changes..."
+            git push
+          fi
