@@ -24,7 +24,7 @@ uv run --with requests --with beautifulsoup4 --with icalendar build_calendar.py 
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -U pip
-pip install requests beautifulsoup4 icalendar
+pip install -r requirements.txt
 
 # run the script
 python build_calendar.py            # writes phoenix.ics
