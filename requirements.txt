@@ -1,0 +1,6 @@
+# Phoenix Calendar scraper dependencies
+# See README.md for installation instructions
+
+requests>=2.25.0
+beautifulsoup4>=4.9.0
+icalendar>=4.0.0
