@@ -842,6 +842,17 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Frightarama (18)
+DTSTART;TZID=Europe/London:20251031T213000
+DTEND;TZID=Europe/London:20251031T233000
+UID:8969df254c0e6058abaa95120dd8574af7475ebe@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11439112.
+ TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:From Ground Zero (12A)
 DTSTART;TZID=Europe/London:20250919T201500
 DTEND;TZID=Europe/London:20250919T220800
