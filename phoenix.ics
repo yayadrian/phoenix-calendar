@@ -202,11 +202,11 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:André Rieu’s 2025 Maastricht Concert: Waltz The Night Away! TBC
-  (TBC)
+SUMMARY:André Rieu’s 2025 Maastricht Concert: Waltz The Night Away! (PG
+ )
 DTSTART;TZID=Europe/London:20250913T190000
 DTEND;TZID=Europe/London:20250913T220000
-UID:78f9791802a3b37a2a34c42224905664ddb8d547@phoenix-leicester
+UID:69eb3405e40e05abc4c95092165b46d6e3b99dee@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -214,11 +214,11 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:André Rieu’s 2025 Maastricht Concert: Waltz The Night Away! TBC
-  (TBC)
+SUMMARY:André Rieu’s 2025 Maastricht Concert: Waltz The Night Away! (PG
+ )
 DTSTART;TZID=Europe/London:20250914T150000
 DTEND;TZID=Europe/London:20250914T180000
-UID:30f3d573ef9bda9358c8ebdac399094254727a10@phoenix-leicester
+UID:b649727aa64db7f39d2b85c74ecc6918207f7f73@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -1373,6 +1373,28 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mitski: The Land (12A)
+DTSTART;TZID=Europe/London:20251023T201500
+DTEND;TZID=Europe/London:20251023T213300
+UID:bd07c7b957e8154ea3f803c4bcccfa71f588b53d@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11477044.
+ TcsSection_4075334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mitski: The Land (12A)
+DTSTART;TZID=Europe/London:20251024T201500
+DTEND;TZID=Europe/London:20251024T213300
+UID:3a79a24a9165f25e60d3dc79aaa89ae46c0eaff4@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11477050.
+ TcsSection_851
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mystery Film (18)
 DTSTART;TZID=Europe/London:20250919T181500
 DTEND;TZID=Europe/London:20250919T194500
@@ -2405,17 +2427,6 @@ LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11469517.
  TcsSection_4078727
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:To Be Frank – Me\, Frank and the Music Industry (18)
-DTSTART;TZID=Europe/London:20250910T200000
-DTEND;TZID=Europe/London:20250910T215000
-UID:f5bc0d568908aff0f288ca6037d541e4834c1d67@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11028388.
- TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tosca TBC (TBC)
