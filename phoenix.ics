@@ -521,6 +521,17 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:E.1027: Eileen Gray and The House By The Sea (15)
+DTSTART;TZID=Europe/London:20251020T203000
+DTEND;TZID=Europe/London:20251020T215900
+UID:024e0d97e0d4773dda12610f439a1d01e5f0fc46@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11492873.
+ TcsSection_4075334
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ebirah\, Horror of the Deep (PG)
 DTSTART;TZID=Europe/London:20250929T181500
 DTEND;TZID=Europe/London:20250929T194200
@@ -532,10 +543,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Edgar Allan Poe On Screen 18+ (18+)
+SUMMARY:Edgar Allan Poe on Screen 18+ (18+)
 DTSTART;TZID=Europe/London:20251016T190000
 DTEND;TZID=Europe/London:20251016T203000
-UID:6429b0042025a73b7c2132af010a3ea0a0aaaf7c@phoenix-leicester
+UID:3985b9c19f3d3adb170b3487b179a160a3fa7d79@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -1393,6 +1404,17 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4078727
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Parasite (15)
+DTSTART;TZID=Europe/London:20251018T201500
+DTEND;TZID=Europe/London:20251018T221700
+UID:6a27cf26d0d03568461160ed19e42a9aaff37df8@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11559609.
+ TcsSection_4078727
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Persepolis (12A)
 DTSTART;TZID=Europe/London:20251012T150000
 DTEND;TZID=Europe/London:20251012T163100
@@ -1490,6 +1512,17 @@ LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11103465.
  TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rear Window (PG)
+DTSTART;TZID=Europe/London:20251023T201500
+DTEND;TZID=Europe/London:20251023T220900
+UID:89af8959d2c8378baf9421d0c61795c92a645715@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11398854.
+ TcsSection_4078727
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Siegfried TBC (TBC)
@@ -1778,10 +1811,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4078727
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Smashing Machine TBC (TBC)
+SUMMARY:The Smashing Machine (15)
 DTSTART;TZID=Europe/London:20251003T124500
 DTEND;TZID=Europe/London:20251003T144800
-UID:45ea6198f3c70871fdff2ff9411dbec4f14d015e@phoenix-leicester
+UID:b5a7e15edad9c33c529b84dc6b43310694025964@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -1789,10 +1822,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_851
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Smashing Machine TBC (TBC)
+SUMMARY:The Smashing Machine (15)
 DTSTART;TZID=Europe/London:20251003T153000
 DTEND;TZID=Europe/London:20251003T173300
-UID:5e2c603c074e7e7c3926466a85b646b9ba811300@phoenix-leicester
+UID:e9d02b4e9a6772cf0c04c090a58cf9331cb8d1ae@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -1800,10 +1833,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_851
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Smashing Machine TBC (TBC)
+SUMMARY:The Smashing Machine (15)
 DTSTART;TZID=Europe/London:20251003T201500
 DTEND;TZID=Europe/London:20251003T221800
-UID:59b0b99dd65aef47d2184951fb4a6249106f1518@phoenix-leicester
+UID:1891003daedb54ec3b9f8914977d092a1b9f8bd1@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -1811,10 +1844,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Smashing Machine TBC (TBC)
+SUMMARY:The Smashing Machine (15)
 DTSTART;TZID=Europe/London:20251004T130000
 DTEND;TZID=Europe/London:20251004T150300
-UID:af0ff15a05d4c8bb534859bf0a2c302a7adf02cb@phoenix-leicester
+UID:ce15abc1e10ff04ae44be9092fa2e4f76af73a29@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -1822,10 +1855,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Smashing Machine TBC (TBC)
+SUMMARY:The Smashing Machine (15)
 DTSTART;TZID=Europe/London:20251004T200000
 DTEND;TZID=Europe/London:20251004T220300
-UID:93817c96d7ddd87e40f0fd515129e019eefcde14@phoenix-leicester
+UID:3a84b196050c09f4a3cf216fb7a44023335a6490@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -1833,10 +1866,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_851
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Smashing Machine TBC (TBC)
+SUMMARY:The Smashing Machine (15)
 DTSTART;TZID=Europe/London:20251005T123000
 DTEND;TZID=Europe/London:20251005T143300
-UID:51c9da4bdc1cf9803be79657fb72729b6a2c85a2@phoenix-leicester
+UID:e490670f95cf6c4a7987548b272b32ed18e526f0@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -1844,10 +1877,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Smashing Machine TBC (TBC)
+SUMMARY:The Smashing Machine (15)
 DTSTART;TZID=Europe/London:20251005T180000
 DTEND;TZID=Europe/London:20251005T200300
-UID:b6cbe463d2321e1e169a0c6404e4e665913622c4@phoenix-leicester
+UID:8300a0d3547e5a5b11ca39097347e09ef8a566ab@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -1855,10 +1888,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Smashing Machine TBC (TBC)
+SUMMARY:The Smashing Machine (15)
 DTSTART;TZID=Europe/London:20251006T130000
 DTEND;TZID=Europe/London:20251006T150300
-UID:2d1fa54dce13d7b1bc2b9ac896b575ed57c50a20@phoenix-leicester
+UID:4cdddbc1c74673949e89b3d1f9413f67ef22db56@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -1866,10 +1899,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_851
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Smashing Machine TBC (TBC)
+SUMMARY:The Smashing Machine (15)
 DTSTART;TZID=Europe/London:20251006T203000
 DTEND;TZID=Europe/London:20251006T223300
-UID:00ccefa90e104c642570c54ea010dbb18834b8b4@phoenix-leicester
+UID:a2aa7e5b6bd9b366e89aee3ce662a3919f6d3bab@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -1877,10 +1910,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Smashing Machine TBC (TBC)
+SUMMARY:The Smashing Machine (15)
 DTSTART;TZID=Europe/London:20251009T130000
 DTEND;TZID=Europe/London:20251009T150300
-UID:74ef244bbe3517c60c6fa6657bc4557c92053c44@phoenix-leicester
+UID:7fcc6787cb94c8fd3f11551c39b51258527c5db3@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -1888,10 +1921,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_851
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Smashing Machine TBC (TBC)
+SUMMARY:The Smashing Machine (15)
 DTSTART;TZID=Europe/London:20251009T201500
 DTEND;TZID=Europe/London:20251009T221800
-UID:ec5aa199d08c577aea462a4f2520ea8a7a307ab4@phoenix-leicester
+UID:f323bc916d22a12c41dadc3da7534c354e99cb2d@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
