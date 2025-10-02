@@ -1681,12 +1681,12 @@ BEGIN:VEVENT
 SUMMARY:Princess Mononoke – 4K restoration (12A)
 DTSTART;TZID=Europe/London:20251019T123000
 DTEND;TZID=Europe/London:20251019T144300
-UID:104d4f7b96b67f04c038e2429693f49737770602@phoenix-leicester
+UID:2a45cdcfeaffd200108c55f5b3cd6315484dc7b0@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11563840.
- TcsSection_4075334
+ TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Princess Mononoke – 4K restoration (12A)
@@ -1821,10 +1821,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4078727
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sholay TBC (TBC)
+SUMMARY:Sholay (PG)
 DTSTART;TZID=Europe/London:20251115T191500
 DTEND;TZID=Europe/London:20251115T223100
-UID:430ecb28f329331937c51260c6b2fe0d7e8faf1e@phoenix-leicester
+UID:fefde3782d1b30c208b8292a147f1a284d72f150@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -1852,6 +1852,17 @@ LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11024955.
  TcsSection_4075334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solve-Along-A-Murder-She-Wrote (15)
+DTSTART;TZID=Europe/London:20251130T193000
+DTEND;TZID=Europe/London:20251130T213000
+UID:ecfe30ddce904a161ef5b2116f23cd8a04757a97@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11605534.
+ TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Son of Godzilla (PG)
