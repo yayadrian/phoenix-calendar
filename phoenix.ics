@@ -268,10 +268,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4078727
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ballad of a Small Player TBC (TBC)
+SUMMARY:Ballad of a Small Player (15)
 DTSTART;TZID=Europe/London:20251024T174500
 DTEND;TZID=Europe/London:20251024T192600
-UID:8aedb9464b84aec028f73fac4a70d60470adb2b4@phoenix-leicester
+UID:c2dad63341bdc6c246172dc0ca67fbf07c00fc9c@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -279,10 +279,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ballad of a Small Player TBC (TBC)
+SUMMARY:Ballad of a Small Player (15)
 DTSTART;TZID=Europe/London:20251025T150000
 DTEND;TZID=Europe/London:20251025T164100
-UID:6ca10a43e722892e5d67caf7078d67d25d99b37f@phoenix-leicester
+UID:58f4a200cb857ea2829f382e56d4c9a271e18411@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -290,10 +290,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_851
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ballad of a Small Player TBC (TBC)
+SUMMARY:Ballad of a Small Player (15)
 DTSTART;TZID=Europe/London:20251026T143000
 DTEND;TZID=Europe/London:20251026T161100
-UID:b776325619fcde00e26bb6e920c2c757db9f50ff@phoenix-leicester
+UID:bf4bf13fce0c197f8cde2daadd5149a36d03b364@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -301,10 +301,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4078727
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ballad of a Small Player TBC (TBC)
+SUMMARY:Ballad of a Small Player (15)
 DTSTART;TZID=Europe/London:20251027T130000
 DTEND;TZID=Europe/London:20251027T144100
-UID:02b64e21d448a924e76e9902aa32b9fc2c66977f@phoenix-leicester
+UID:a973f51a0b83db73793961c5b77343d129007f8f@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -312,10 +312,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ballad of a Small Player TBC (TBC)
+SUMMARY:Ballad of a Small Player (15)
 DTSTART;TZID=Europe/London:20251027T174500
 DTEND;TZID=Europe/London:20251027T192600
-UID:7f01464e5626921016b78e988cb2ecf31735620c@phoenix-leicester
+UID:921551186642fe64e17837a729cd87f67132141a@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -323,10 +323,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_851
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ballad of a Small Player TBC (TBC)
+SUMMARY:Ballad of a Small Player (15)
 DTSTART;TZID=Europe/London:20251030T130000
 DTEND;TZID=Europe/London:20251030T144100
-UID:941a72d4bd286495c01a8f8b2a10fdf3dec9f9db@phoenix-leicester
+UID:062a895ac318c06a13e8380c54b631366037629b@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -334,10 +334,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ballad of a Small Player TBC (TBC)
+SUMMARY:Ballad of a Small Player (15)
 DTSTART;TZID=Europe/London:20251030T174500
 DTEND;TZID=Europe/London:20251030T192600
-UID:a26c94ca9a61a4345b88ae8c8ebfe8a35cad76f6@phoenix-leicester
+UID:cf8b4487ad5130813015a82a46a56749ec417ebc@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -1459,17 +1459,6 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NT Live: The Fifth Step (15)
-DTSTART;TZID=Europe/London:20251129T193000
-DTEND;TZID=Europe/London:20251129T211000
-UID:4db49e3cb76810c032ff79f702272ec86241213d@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11103328.
- TcsSection_528
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live: The Fifth Step (15)
 DTSTART;TZID=Europe/London:20251204T190000
 DTEND;TZID=Europe/London:20251204T204000
 UID:3218b9ed0397dbed7e04fb9b9c79798a2b21ef99@phoenix-leicester
@@ -2457,6 +2446,182 @@ LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11516768.
  TcsSection_4075334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wake Up Dead Man: A Knives Out Mystery TBC (TBC)
+DTSTART;TZID=Europe/London:20251205T130000
+DTEND;TZID=Europe/London:20251205T152000
+UID:f7ed2baa6f7dd612c90f66e86da165555c8ceb09@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11645096.
+ TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wake Up Dead Man: A Knives Out Mystery TBC (TBC)
+DTSTART;TZID=Europe/London:20251205T161500
+DTEND;TZID=Europe/London:20251205T183500
+UID:248fe32e9ca0334158ab8db1b7766a270967a10c@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11645098.
+ TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wake Up Dead Man: A Knives Out Mystery TBC (TBC)
+DTSTART;TZID=Europe/London:20251205T193000
+DTEND;TZID=Europe/London:20251205T215000
+UID:be4fc170a8910970db90c32ec372ef126ed4f161@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11645100.
+ TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wake Up Dead Man: A Knives Out Mystery TBC (TBC)
+DTSTART;TZID=Europe/London:20251206T120000
+DTEND;TZID=Europe/London:20251206T142000
+UID:bc3c085ee00f3e4b9acdfa16a69c60d37e060333@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11645104.
+ TcsSection_851
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wake Up Dead Man: A Knives Out Mystery TBC (TBC)
+DTSTART;TZID=Europe/London:20251206T144500
+DTEND;TZID=Europe/London:20251206T170500
+UID:880405d33a3ecc9c1d703f262d0a81613ed8999f@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11645128.
+ TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wake Up Dead Man: A Knives Out Mystery TBC (TBC)
+DTSTART;TZID=Europe/London:20251206T173000
+DTEND;TZID=Europe/London:20251206T195000
+UID:6b846c3342f3b3dd367a9078d087db51f3ac21d3@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11645102.
+ TcsSection_851
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wake Up Dead Man: A Knives Out Mystery TBC (TBC)
+DTSTART;TZID=Europe/London:20251206T203000
+DTEND;TZID=Europe/London:20251206T225000
+UID:cf7ec301723674c6174e902f1dd3dd9bb6cbf7dc@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11645125.
+ TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wake Up Dead Man: A Knives Out Mystery TBC (TBC)
+DTSTART;TZID=Europe/London:20251207T123000
+DTEND;TZID=Europe/London:20251207T145000
+UID:7985fedb98d0b77f97af3659d8ea919e975e1d92@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11645106.
+ TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wake Up Dead Man: A Knives Out Mystery TBC (TBC)
+DTSTART;TZID=Europe/London:20251207T144500
+DTEND;TZID=Europe/London:20251207T170500
+UID:5b5bde44892b85e079bbc2c030084877c7d18a00@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11645108.
+ TcsSection_4078727
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wake Up Dead Man: A Knives Out Mystery TBC (TBC)
+DTSTART;TZID=Europe/London:20251207T180000
+DTEND;TZID=Europe/London:20251207T202000
+UID:3efee5cbe7d35dc902863d50808106f196d660da@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11645110.
+ TcsSection_851
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wake Up Dead Man: A Knives Out Mystery TBC (TBC)
+DTSTART;TZID=Europe/London:20251208T130000
+DTEND;TZID=Europe/London:20251208T152000
+UID:50c5053ea3caeb3f37be42813eb989a16d8d3d21@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11645112.
+ TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wake Up Dead Man: A Knives Out Mystery TBC (TBC)
+DTSTART;TZID=Europe/London:20251208T161500
+DTEND;TZID=Europe/London:20251208T183500
+UID:39531cef27e457f6a85711d3236b4f3520379f02@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11645114.
+ TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wake Up Dead Man: A Knives Out Mystery TBC (TBC)
+DTSTART;TZID=Europe/London:20251208T193000
+DTEND;TZID=Europe/London:20251208T215000
+UID:f21f697edbfd4092f6a52b1040826eef368c02c3@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11645116.
+ TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wake Up Dead Man: A Knives Out Mystery TBC (TBC)
+DTSTART;TZID=Europe/London:20251211T130000
+DTEND;TZID=Europe/London:20251211T152000
+UID:fe63bf7e63e42027bb1dd4f83f835b1aecc53a8f@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11645118.
+ TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wake Up Dead Man: A Knives Out Mystery TBC (TBC)
+DTSTART;TZID=Europe/London:20251211T161500
+DTEND;TZID=Europe/London:20251211T183500
+UID:b10bc89bc8728ee37bc5ebd16c7c4d73ee1bc4b3@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11645120.
+ TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wake Up Dead Man: A Knives Out Mystery TBC (TBC)
+DTSTART;TZID=Europe/London:20251211T193000
+DTEND;TZID=Europe/London:20251211T215000
+UID:981c0f563b9d01856a0decfa5328573b9aafb614@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11645122.
+ TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wine Tasting (18)
