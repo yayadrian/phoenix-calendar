@@ -895,10 +895,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:K-Pop Demon Hunters Sing-A-Long (PG)
+SUMMARY:K-Pop Demon Hunters Sing-Along (PG)
 DTSTART;TZID=Europe/London:20251101T153000
 DTEND;TZID=Europe/London:20251101T170600
-UID:a5fc5f39d436afd62bc5a4f5149172504b412871@phoenix-leicester
+UID:b90543893bfb35ff07dc82bcfc014137a23faf38@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -906,10 +906,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La Boheme TBC (TBC)
+SUMMARY:La Bohème TBC (TBC)
 DTSTART;TZID=Europe/London:20251108T180000
 DTEND;TZID=Europe/London:20251108T213000
-UID:c81955be56026e6ee254c846f808cd6d66aad209@phoenix-leicester
+UID:37c52e8f8ae02d13a3ff30e266151786b3228506@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -958,6 +958,17 @@ DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11398722.
+ TcsSection_851
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mystery Film (18)
+DTSTART;TZID=Europe/London:20251121T181500
+DTEND;TZID=Europe/London:20251121T194500
+UID:bbd445fa658cd07dc1a9296e33cd9a4fe43f6d2c@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11680258.
  TcsSection_851
 END:VEVENT
 BEGIN:VEVENT
@@ -1820,10 +1831,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Descent (15)
+SUMMARY:The Descent – 4K Restoration (15)
 DTSTART;TZID=Europe/London:20251101T204500
 DTEND;TZID=Europe/London:20251101T222400
-UID:900aac6cac2001498f9e112978f5ff9d40dd67a7@phoenix-leicester
+UID:0c1a1d976fb3e6ec31ef9136df77c88073e0ba8c@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -1831,10 +1842,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4078727
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Descent (15)
+SUMMARY:The Descent – 4K Restoration (15)
 DTSTART;TZID=Europe/London:20251102T153000
 DTEND;TZID=Europe/London:20251102T170900
-UID:5ca9d9ec42ece1dd8c0e9a834196b27441541bf1@phoenix-leicester
+UID:af51baacd9bfadb93812c758fb960ce1ad6afb99@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -1842,10 +1853,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Descent (15)
+SUMMARY:The Descent – 4K Restoration (15)
 DTSTART;TZID=Europe/London:20251103T180000
 DTEND;TZID=Europe/London:20251103T193900
-UID:48bf5c43e37d3310f724236fccd5b0caf02523a7@phoenix-leicester
+UID:70c877a1afab9d71bc81411d6f69b180715869e6@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
