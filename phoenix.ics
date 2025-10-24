@@ -4,28 +4,6 @@ PRODID:-//Phoenix Leicester iCal//EN
 X-WR-CALNAME:Phoenix Leicester — What’s On
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-SUMMARY:A House of Dynamite (15)
-DTSTART;TZID=Europe/London:20251023T130000
-DTEND;TZID=Europe/London:20251023T145200
-UID:27bc1d77508babd10595324a9b2d4f733098a191@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11563834.
- TcsSection_4078727
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A House of Dynamite (15)
-DTSTART;TZID=Europe/London:20251023T161500
-DTEND;TZID=Europe/London:20251023T180700
-UID:27456256cf657ac1000d2d4d5199ce4eb7422bdc@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11679957.
- TcsSection_528
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:A Lesson on Differences TBC (TBC)
 DTSTART;TZID=Europe/London:20251109T170000
 DTEND;TZID=Europe/London:20251109T180000
@@ -57,28 +35,6 @@ LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11728046.
  TcsSection_528
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:After the Hunt (15)
-DTSTART;TZID=Europe/London:20251023T130000
-DTEND;TZID=Europe/London:20251023T151900
-UID:972a124e7ffdc07456fb196ec34b835cdfa56e4f@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11563862.
- TcsSection_851
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:After the Hunt (15)
-DTSTART;TZID=Europe/London:20251023T203000
-DTEND;TZID=Europe/London:20251023T224900
-UID:3c56901dd7cde44367e3ffc4e35f2fc6ce13941a@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11563864.
- TcsSection_851
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:After the Hunt (15)
@@ -554,17 +510,6 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_851
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Editing for Indie Filmmakers 18+ (18+)
-DTSTART;TZID=Europe/London:20251023T190000
-DTEND;TZID=Europe/London:20251023T203000
-UID:d822c18768342388fd21ff8a579f188d65a785a2@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_10945574.
- TcsSection_335568
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:El Último Sueño de Frida y Diego TBC (TBC)
 DTSTART;TZID=Europe/London:20260530T180000
 DTEND;TZID=Europe/London:20260530T205000
@@ -775,28 +720,6 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:I Swear (15)
-DTSTART;TZID=Europe/London:20251023T130000
-DTEND;TZID=Europe/London:20251023T150000
-UID:df4d19754e48bcd9797dbc63d45514485c85492f@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11563882.
- TcsSection_528
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Swear (15)
-DTSTART;TZID=Europe/London:20251023T173000
-DTEND;TZID=Europe/London:20251023T193000
-UID:fd8a46c9085dfc079fa2235bf3cb523f60cef2a6@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11563884.
- TcsSection_4075334
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Swear (15)
 DTSTART;TZID=Europe/London:20251024T194500
 DTEND;TZID=Europe/London:20251024T214500
 UID:f6107c371728ad06a8230f31fd10b3cf9521e09b@phoenix-leicester
@@ -849,17 +772,6 @@ LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11717688.
  TcsSection_4078727
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Islands (15)
-DTSTART;TZID=Europe/London:20251023T144500
-DTEND;TZID=Europe/London:20251023T164700
-UID:cebaaf1530ccddd0ac4352b56aefd6ca6f9015b6@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11679826.
- TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:It Doesn’t Get Any Better Than This (15)
@@ -929,17 +841,6 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mitski: The Land (12A)
-DTSTART;TZID=Europe/London:20251023T201500
-DTEND;TZID=Europe/London:20251023T213300
-UID:bd07c7b957e8154ea3f803c4bcccfa71f588b53d@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11477044.
- TcsSection_4075334
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mitski: The Land (12A)
 DTSTART;TZID=Europe/London:20251024T201500
 DTEND;TZID=Europe/London:20251024T213300
 UID:3a79a24a9165f25e60d3dc79aaa89ae46c0eaff4@phoenix-leicester
@@ -970,17 +871,6 @@ LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11680258.
  TcsSection_851
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night of the Zoopocalypse (PG)
-DTSTART;TZID=Europe/London:20251023T123000
-DTEND;TZID=Europe/London:20251023T140100
-UID:d14ccd81f8f4e6ef569fa2948f3ad78364928552@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11563916.
- TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Night of the Zoopocalypse (PG)
@@ -1068,17 +958,6 @@ DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11638712.
- TcsSection_528
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live: Mrs. Warren’s Profession (12A)
-DTSTART;TZID=Europe/London:20251023T190000
-DTEND;TZID=Europe/London:20251023T210000
-UID:72a305340726d9d907432c7e3f6acb642dd1138c@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11098412.
  TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
@@ -1171,17 +1050,6 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:One Battle After Another (15)
-DTSTART;TZID=Europe/London:20251023T170000
-DTEND;TZID=Europe/London:20251023T195000
-UID:b082575d8579e791a488a20e0bf2b0eb9dcd7237@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11679816.
- TcsSection_851
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Battle After Another (15)
 DTSTART;TZID=Europe/London:20251024T160000
 DTEND;TZID=Europe/London:20251024T185000
 UID:21a18b5335b556ca7cccb3cfb295668fb6c1afc2@phoenix-leicester
@@ -1256,17 +1124,6 @@ DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11683190.
- TcsSection_4078727
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Princess Mononoke – 4K restoration (12A)
-DTSTART;TZID=Europe/London:20251023T171500
-DTEND;TZID=Europe/London:20251023T192800
-UID:9d3d2ee8ca92b2544aea9e750d8b975ed4a061f4@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11563844.
  TcsSection_4078727
 END:VEVENT
 BEGIN:VEVENT
@@ -1400,17 +1257,6 @@ LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11646724.
  TcsSection_4075334
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rear Window (PG)
-DTSTART;TZID=Europe/London:20251023T201500
-DTEND;TZID=Europe/London:20251023T220900
-UID:89af8959d2c8378baf9421d0c61795c92a645715@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11398854.
- TcsSection_4078727
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sholay (PG)
