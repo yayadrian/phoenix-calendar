@@ -49,17 +49,6 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:After the Hunt (15)
-DTSTART;TZID=Europe/London:20251025T143000
-DTEND;TZID=Europe/London:20251025T164900
-UID:12c9c41595fb3ef7b5fb02ba3617aafeffdfd4e4@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11717647.
- TcsSection_4075334
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:After the Hunt (15)
 DTSTART;TZID=Europe/London:20251026T174500
 DTEND;TZID=Europe/London:20251026T200400
 UID:2b651eebd70eca390548729b6813b8d241a71333@phoenix-leicester
@@ -159,17 +148,6 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ballad of a Small Player (15)
-DTSTART;TZID=Europe/London:20251025T150000
-DTEND;TZID=Europe/London:20251025T164100
-UID:58f4a200cb857ea2829f382e56d4c9a271e18411@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11563924.
- TcsSection_851
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ballad of a Small Player (15)
 DTSTART;TZID=Europe/London:20251026T143000
 DTEND;TZID=Europe/London:20251026T161100
 UID:bf4bf13fce0c197f8cde2daadd5149a36d03b364@phoenix-leicester
@@ -244,17 +222,6 @@ LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11253654.
  TcsSection_528
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blacula (15)
-DTSTART;TZID=Europe/London:20251025T200000
-DTEND;TZID=Europe/London:20251025T212900
-UID:b44bc6a3907e5338042f97e047cf2812f0323f5b@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11024953.
- TcsSection_4078727
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bugonia (15)
@@ -720,17 +687,6 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:I Swear (15)
-DTSTART;TZID=Europe/London:20251025T173000
-DTEND;TZID=Europe/London:20251025T193000
-UID:c5bedac9e727a855fe4fff04cf96891c23c5bdac@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11717684.
- TcsSection_4075334
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Swear (15)
 DTSTART;TZID=Europe/London:20251026T173000
 DTEND;TZID=Europe/London:20251026T193000
 UID:84aab8190f611d089c38207849a6906879bce7b0@phoenix-leicester
@@ -841,17 +797,6 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Night of the Zoopocalypse (PG)
-DTSTART;TZID=Europe/London:20251025T113000
-DTEND;TZID=Europe/London:20251025T130100
-UID:dec4b7ce313ca6515a1cf063e6a2dfe77da1f3b2@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11563937.
- TcsSection_4078727
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night of the Zoopocalypse (PG)
 DTSTART;TZID=Europe/London:20251026T120000
 DTEND;TZID=Europe/London:20251026T133100
 UID:9c71ccffeb228f0ef7301299bba26d72c80fafb3@phoenix-leicester
@@ -914,28 +859,6 @@ DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11638712.
- TcsSection_528
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live: Mrs. Warren’s Profession (12A)
-DTSTART;TZID=Europe/London:20251025T170000
-DTEND;TZID=Europe/London:20251025T190000
-UID:6fee9860b22a02f628686c38c5423dfc2ee70ab2@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11100095.
- TcsSection_4078727
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live: Mrs. Warren’s Profession (12A)
-DTSTART;TZID=Europe/London:20251025T194500
-DTEND;TZID=Europe/London:20251025T214500
-UID:a8a90e769059819995f61a4f0c93e0bef7995999@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11100104.
  TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
@@ -1006,17 +929,6 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:One Battle After Another (15)
-DTSTART;TZID=Europe/London:20251025T113000
-DTEND;TZID=Europe/London:20251025T142000
-UID:d32fe2a3a2b100b1d319c5556696ee6deffa83d3@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11717617.
- TcsSection_851
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Battle After Another (15)
 DTSTART;TZID=Europe/London:20251027T154500
 DTEND;TZID=Europe/London:20251027T183500
 UID:221deb20dd6b8a65eefbdd6822d88726832b532a@phoenix-leicester
@@ -1070,17 +982,6 @@ LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11683190.
  TcsSection_4078727
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Princess Mononoke – 4K restoration (12A)
-DTSTART;TZID=Europe/London:20251025T113000
-DTEND;TZID=Europe/London:20251025T134300
-UID:471b15e85270450a163c8496cd2f35fab53f1e61@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11717637.
- TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Princess Mononoke – 4K restoration (12A)
@@ -1246,50 +1147,6 @@ LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11605534.
  TcsSection_528
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Springsteen: Deliver Me from Nowhere (12A)
-DTSTART;TZID=Europe/London:20251025T123000
-DTEND;TZID=Europe/London:20251025T143000
-UID:282c1e55576a239f65d5bb9a29bde054ed945961@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11352790.
- TcsSection_528
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Springsteen: Deliver Me from Nowhere (12A)
-DTSTART;TZID=Europe/London:20251025T153000
-DTEND;TZID=Europe/London:20251025T173000
-UID:068ea24bef39466aea24071dc896a4d4bb76bec7@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11352792.
- TcsSection_528
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Springsteen: Deliver Me from Nowhere (12A)
-DTSTART;TZID=Europe/London:20251025T173000
-DTEND;TZID=Europe/London:20251025T193000
-UID:43eee4d15516cbd62c3bf083ccf6741699ba600d@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11352794.
- TcsSection_851
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Springsteen: Deliver Me from Nowhere (12A)
-DTSTART;TZID=Europe/London:20251025T201500
-DTEND;TZID=Europe/London:20251025T221500
-UID:dbf1a5178ace10bb5986f180eab38fe85a785b8e@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11352816.
- TcsSection_851
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Springsteen: Deliver Me from Nowhere (12A)
@@ -1620,28 +1477,6 @@ LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11103476.
  TcsSection_528
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Mastermind (12A)
-DTSTART;TZID=Europe/London:20251025T141500
-DTEND;TZID=Europe/London:20251025T160500
-UID:172c4a4f6ad1060b2d5fa67ad6a6b83e8ecacf43@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11566575.
- TcsSection_4078727
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Mastermind (12A)
-DTSTART;TZID=Europe/London:20251025T201500
-DTEND;TZID=Europe/London:20251025T220500
-UID:b1af7d7f747b904e04bf209510930af0be8481a8@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11491259.
- TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Mastermind (12A)
