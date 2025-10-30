@@ -928,6 +928,17 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_851
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mamma Mia: Sing-a-Long Bottomless Brunch (18)
+DTSTART;TZID=Europe/London:20251220T123000
+DTEND;TZID=Europe/London:20251220T143000
+UID:829285ae4b1c1fb745fde7ba842a7e08efcf0573@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11772297.
+ TcsSection_5078691
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mystery Film (18)
 DTSTART;TZID=Europe/London:20251121T181500
 DTEND;TZID=Europe/London:20251121T194500
