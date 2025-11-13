@@ -114,6 +114,17 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Arthur Christmas (U)
+DTSTART;TZID=Europe/London:20251206T163000
+DTEND;TZID=Europe/London:20251206T180700
+UID:f432da8a76ac85437ebd74573c8894a55ea12825@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11644115.
+ TcsSection_4078727
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Artist Talk: Demystifying Quantum Computing Art N/A (N)
 DTSTART;TZID=Europe/London:20251117T183000
 DTEND;TZID=Europe/London:20251117T200000
