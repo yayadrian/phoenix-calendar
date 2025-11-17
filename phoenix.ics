@@ -291,17 +291,6 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bugonia (15)
-DTSTART;TZID=Europe/London:20251116T181500
-DTEND;TZID=Europe/London:20251116T201300
-UID:ac56a8cd4218bcb6778d0e92daee3ef87be9cc19@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11856129.
- TcsSection_4075334
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bugonia (15)
 DTSTART;TZID=Europe/London:20251117T171500
 DTEND;TZID=Europe/London:20251117T191300
 UID:26295afe4b93e1c93b1ed52eee302378e2b9cf3b@phoenix-leicester
@@ -398,28 +387,6 @@ LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11765090.
  TcsSection_528
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Die My Love (15)
-DTSTART;TZID=Europe/London:20251116T144500
-DTEND;TZID=Europe/London:20251116T164300
-UID:ac179b00dc3e1e64b782e25fde03528871f2d08f@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11771336.
- TcsSection_4078727
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Die My Love (15)
-DTSTART;TZID=Europe/London:20251116T181500
-DTEND;TZID=Europe/London:20251116T201300
-UID:a1eb1568b9d927a5c04162964efcf7370f36e226@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11686790.
- TcsSection_851
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Die My Love (15)
@@ -775,17 +742,6 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nuremberg (15)
-DTSTART;TZID=Europe/London:20251116T174500
-DTEND;TZID=Europe/London:20251116T201300
-UID:4e734cf7fded23e44de4f04abb858a352de0e17d@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11686786.
- TcsSection_4078727
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nuremberg (15)
 DTSTART;TZID=Europe/London:20251117T133000
 DTEND;TZID=Europe/London:20251117T155800
 UID:279baa02acf47cbb5b73636bec6d60607c814192@phoenix-leicester
@@ -1103,28 +1059,6 @@ LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11771609.
  TcsSection_851
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Choral (12A)
-DTSTART;TZID=Europe/London:20251116T120000
-DTEND;TZID=Europe/London:20251116T135300
-UID:d382618c31644bb97f10be405ee398b3e9e09917@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11686788.
- TcsSection_4078727
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Choral (12A)
-DTSTART;TZID=Europe/London:20251116T181500
-DTEND;TZID=Europe/London:20251116T200800
-UID:ccb38a3a22c0f334dc3f87383a5f2702c6ff9507@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11687086.
- TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Choral (12A)
