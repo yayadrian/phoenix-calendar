@@ -1195,12 +1195,12 @@ BEGIN:VEVENT
 SUMMARY:It Happened One Night (U)
 DTSTART;TZID=Europe/London:20251226T153000
 DTEND;TZID=Europe/London:20251226T171500
-UID:d36e143c8decb582e6f5de7beaf8611e58f6b0f5@phoenix-leicester
+UID:88b24c2c00c19f5f2806aea81824bbef1d45c864@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11771609.
- TcsSection_851
+ TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Choral (12A)
