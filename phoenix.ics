@@ -70,10 +70,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Andrea Chénier TBC (TBC)
+SUMMARY:Andrea Chénier (12A)
 DTSTART;TZID=Europe/London:20251213T180000
 DTEND;TZID=Europe/London:20251213T213000
-UID:5f9af7b517f2804166a56149aca7506d7d4981f9@phoenix-leicester
+UID:a6dabf0359335ce8fb9809bf3773f345fe97681c@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -1388,6 +1388,61 @@ LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11923087.
  TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunset Boulevard – 4K Restoration (PG)
+DTSTART;TZID=Europe/London:20251226T124500
+DTEND;TZID=Europe/London:20251226T143500
+UID:f94541d96c27f229055b7677cee3407b9303d700@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11975043.
+ TcsSection_4078727
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunset Boulevard – 4K Restoration (PG)
+DTSTART;TZID=Europe/London:20251227T173000
+DTEND;TZID=Europe/London:20251227T192000
+UID:0a6dc43015874d0591be3eae4c024de5ef4571a8@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11975072.
+ TcsSection_851
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunset Boulevard – 4K Restoration (PG)
+DTSTART;TZID=Europe/London:20251228T150000
+DTEND;TZID=Europe/London:20251228T165000
+UID:1fb11525d1ef0bd2e3bde94e5847978570ff31c8@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11975074.
+ TcsSection_4078727
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunset Boulevard – 4K Restoration (PG)
+DTSTART;TZID=Europe/London:20251229T191500
+DTEND;TZID=Europe/London:20251229T210500
+UID:69222e9b071427bbcac0757829481b976698c8e2@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11975076.
+ TcsSection_851
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunset Boulevard – 4K Restoration (PG)
+DTSTART;TZID=Europe/London:20251230T133000
+DTEND;TZID=Europe/London:20251230T152000
+UID:99ea644d7d8b73b1f2275a79d9707588c1a123a4@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11975078.
+ TcsSection_851
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Swingers (15)
