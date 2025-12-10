@@ -224,6 +224,72 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ella McCay (12A)
+DTSTART;TZID=Europe/London:20251219T130000
+DTEND;TZID=Europe/London:20251219T145500
+UID:ac6b539878868eeadfb6e2a2883cf234d0a2348f@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11975114.
+ TcsSection_4075334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ella McCay (12A)
+DTSTART;TZID=Europe/London:20251219T201500
+DTEND;TZID=Europe/London:20251219T221000
+UID:87ab35169059f2c2624ee7a5f76687ec7ae2c050@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11786963.
+ TcsSection_851
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ella McCay (12A)
+DTSTART;TZID=Europe/London:20251220T180000
+DTEND;TZID=Europe/London:20251220T195500
+UID:632512f1da0f4f5b0b9987d4195e38cc959c6719@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11786966.
+ TcsSection_851
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ella McCay (12A)
+DTSTART;TZID=Europe/London:20251221T121500
+DTEND;TZID=Europe/London:20251221T141000
+UID:96ccf390d4e5c1329b5f77d09593530a4fe68eeb@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11976540.
+ TcsSection_851
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ella McCay (12A)
+DTSTART;TZID=Europe/London:20251222T194500
+DTEND;TZID=Europe/London:20251222T214000
+UID:0a966f0e325a6756e09c14371e611955afcb28cc@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11786979.
+ TcsSection_851
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ella McCay (12A)
+DTSTART;TZID=Europe/London:20251223T201500
+DTEND;TZID=Europe/London:20251223T221000
+UID:d0e6b7e6486de7b330d7ec436ee53ae6740179b5@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11786981.
+ TcsSection_4078727
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Eternity (15)
 DTSTART;TZID=Europe/London:20251212T174500
 DTEND;TZID=Europe/London:20251212T193700
@@ -1214,10 +1280,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Nutcracker TBC (TBC)
+SUMMARY:The Nutcracker (12A)
 DTSTART;TZID=Europe/London:20251214T140000
 DTEND;TZID=Europe/London:20251214T173000
-UID:ed03457b1dffc0865af77f78b45ff311a99aaaa7@phoenix-leicester
+UID:02d9599b4f7d4bfde0b963d9e1e7a6dd27965746@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -1401,10 +1467,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Silent Sherlock: Three Classic Cases TBC (TBC)
+SUMMARY:Silent Sherlock: Three Classic Cases (PG)
 DTSTART;TZID=Europe/London:20251221T150000
-DTEND;TZID=Europe/London:20251221T161500
-UID:6236c5ba135de043736b9ef075ad5a6b0e74f4f7@phoenix-leicester
+DTEND;TZID=Europe/London:20251221T162600
+UID:df4462d24e0f5c443d456523a432bee2afd79b36@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -1412,10 +1478,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Silent Sherlock: Three Classic Cases TBC (TBC)
+SUMMARY:Silent Sherlock: Three Classic Cases (PG)
 DTSTART;TZID=Europe/London:20251228T154500
-DTEND;TZID=Europe/London:20251228T170000
-UID:7aae4fb9d6d8ae7cc0a6cd1bf03fdb53f649dd9b@phoenix-leicester
+DTEND;TZID=Europe/London:20251228T171100
+UID:1fab9ae4ea1f88f285662651fc0087eeee8d5c8a@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -2150,17 +2216,6 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wine Tasting (18)
-DTSTART;TZID=Europe/London:20260410T190000
-DTEND;TZID=Europe/London:20260410T203000
-UID:b81b49404f69f39818b5af7826dd1dff253a6359@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12038507.
- TcsSection_5078691
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wine Tasting (18)
 DTSTART;TZID=Europe/London:20260508T190000
 DTEND;TZID=Europe/London:20260508T203000
 UID:066b93a11f5db7e03933431d9f1ed8038213612a@phoenix-leicester
@@ -2168,17 +2223,6 @@ DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12038515.
- TcsSection_5078691
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wine Tasting (18)
-DTSTART;TZID=Europe/London:20260612T190000
-DTEND;TZID=Europe/London:20260612T203000
-UID:83f8de63b27f44d8fbb15cfb1d0987a8324eccdb@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12038525.
  TcsSection_5078691
 END:VEVENT
 BEGIN:VEVENT
