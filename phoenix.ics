@@ -213,6 +213,17 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Colossal Wreck (12A)
+DTSTART;TZID=Europe/London:20260312T181500
+DTEND;TZID=Europe/London:20260312T194500
+UID:41324a923191b052129f5032ff09d722da2b6975@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12497551.
+ TcsSection_4075334
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Comedy in the Dark 2026 TBC (TBC)
 DTSTART;TZID=Europe/London:20260207T193000
 DTEND;TZID=Europe/London:20260207T203000
@@ -961,6 +972,17 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_851
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:James Acaster: Cinemagoers Welcome (15)
+DTSTART;TZID=Europe/London:20260306T201500
+DTEND;TZID=Europe/London:20260306T221500
+UID:4c7c54b15e44fdae2fa5653e0151bd8d6f902048@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12497473.
+ TcsSection_4075334
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jessica Barton: Dirty Work TBC (TBC)
 DTSTART;TZID=Europe/London:20260214T170000
 DTEND;TZID=Europe/London:20260214T180000
@@ -1420,6 +1442,28 @@ DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12212380.
+ TcsSection_4078727
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nouvelle Vague (12A)
+DTSTART;TZID=Europe/London:20260212T130000
+DTEND;TZID=Europe/London:20260212T144600
+UID:2765376e37655c911fbe2a7eff9dd63e763a876f@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12212382.
+ TcsSection_851
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nouvelle Vague (12A)
+DTSTART;TZID=Europe/London:20260212T200000
+DTEND;TZID=Europe/London:20260212T214600
+UID:eacc385460fd43d995aade1fa5ef87974f5a1011@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12212384.
  TcsSection_4078727
 END:VEVENT
 BEGIN:VEVENT
