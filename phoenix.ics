@@ -93,17 +93,6 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All That’s Left of You (12A)
-DTSTART;TZID=Europe/London:20260209T160000
-DTEND;TZID=Europe/London:20260209T182500
-UID:e5124ededc444157190190b9ae4d5be1b41f42a4@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12310045.
- TcsSection_528
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:All That’s Left of You (12A)
 DTSTART;TZID=Europe/London:20260212T130000
 DTEND;TZID=Europe/London:20260212T152500
 UID:a185a4cfedb76ad99d323f71c4e335746b9302f9@phoenix-leicester
@@ -357,17 +346,6 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:H is for Hawk (12A)
-DTSTART;TZID=Europe/London:20260209T131500
-DTEND;TZID=Europe/London:20260209T151000
-UID:45f33d6b4cd485e54da6153a05d0835b04016001@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12486328.
- TcsSection_528
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:H is for Hawk (12A)
 DTSTART;TZID=Europe/London:20260212T193000
 DTEND;TZID=Europe/London:20260212T212500
 UID:22e295cd2d58add1a70959fdbd1f8d599be6ce5a@phoenix-leicester
@@ -376,17 +354,6 @@ LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12486370.
  TcsSection_528
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamnet (12A)
-DTSTART;TZID=Europe/London:20260209T171500
-DTEND;TZID=Europe/London:20260209T192000
-UID:243a4c88f68ae5809149d84ee4f86cc56cd870dc@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12486344.
- TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hamnet (12A)
@@ -552,28 +519,6 @@ LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12486407.
  TcsSection_4075334
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Is This Thing On? (15)
-DTSTART;TZID=Europe/London:20260209T133000
-DTEND;TZID=Europe/London:20260209T153100
-UID:77af4f3b2f7d54c16e9627966cb9f7fdac1212aa@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12212362.
- TcsSection_4075334
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Is This Thing On? (15)
-DTSTART;TZID=Europe/London:20260209T201500
-DTEND;TZID=Europe/London:20260209T221600
-UID:8407d92f66604cb6c80b2e3a7b5da94a408f48ac@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12212364.
- TcsSection_851
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Is This Thing On? (15)
@@ -961,17 +906,6 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_851
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nemurubaka: Hypnic Jerks 18+ (18+)
-DTSTART;TZID=Europe/London:20260209T201500
-DTEND;TZID=Europe/London:20260209T220100
-UID:4c9a1f3c2ce485131deb5e7367ac7c2cfbf8b505@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12077428.
- TcsSection_4075334
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nikola McMurtrie Ruins Your Childhood TBC (TBC)
 DTSTART;TZID=Europe/London:20260215T170000
 DTEND;TZID=Europe/London:20260215T180000
@@ -981,17 +915,6 @@ LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12257233.
  TcsSection_5078691
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:No Other Choice (15)
-DTSTART;TZID=Europe/London:20260209T164500
-DTEND;TZID=Europe/London:20260209T190400
-UID:5a3378b4d6b972ccd593dab8f682a31321d9a646@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12486336.
- TcsSection_4078727
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:No Other Choice (15)
@@ -1014,28 +937,6 @@ LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12496695.
  TcsSection_851
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nouvelle Vague (12A)
-DTSTART;TZID=Europe/London:20260209T130000
-DTEND;TZID=Europe/London:20260209T144600
-UID:ed8d84c1ee0ebd471fb0724085ad1b22c63662de@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12212378.
- TcsSection_851
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nouvelle Vague (12A)
-DTSTART;TZID=Europe/London:20260209T200000
-DTEND;TZID=Europe/London:20260209T214600
-UID:925bad57d654324db873da1579cf2fc9303c856e@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12212380.
- TcsSection_4078727
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nouvelle Vague (12A)
@@ -1425,17 +1326,6 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The History of Sound (15)
-DTSTART;TZID=Europe/London:20260209T130000
-DTEND;TZID=Europe/London:20260209T150800
-UID:5c2fb6babbc366631c83459fcb5dc093e26f72db@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12486360.
- TcsSection_4078727
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The History of Sound (15)
 DTSTART;TZID=Europe/London:20260212T163000
 DTEND;TZID=Europe/London:20260212T183800
 UID:831dc4e8daeedf22b09d64952994be5800b38145@phoenix-leicester
@@ -1688,10 +1578,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4078727
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Testament of Ann Lee TBC (TBC)
+SUMMARY:The Testament of Ann Lee (15)
 DTSTART;TZID=Europe/London:20260227T130000
 DTEND;TZID=Europe/London:20260227T151700
-UID:01498009ed5dfd86b125f19bd88bfd99a34dbaa8@phoenix-leicester
+UID:3692b909599e6c695afa66616272303d4fd87124@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -1699,10 +1589,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Testament of Ann Lee TBC (TBC)
+SUMMARY:The Testament of Ann Lee (15)
 DTSTART;TZID=Europe/London:20260227T194500
 DTEND;TZID=Europe/London:20260227T220200
-UID:789087dfc0b07faee9bf28a617baf34ba8ce2bf6@phoenix-leicester
+UID:4fe6ba7b155df7729fa7d7ffac3980be92f192f1@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -1710,10 +1600,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Testament of Ann Lee TBC (TBC)
+SUMMARY:The Testament of Ann Lee (15)
 DTSTART;TZID=Europe/London:20260228T121500
 DTEND;TZID=Europe/London:20260228T143200
-UID:d226aa5b983b707d5b564789fde474f2d4e09160@phoenix-leicester
+UID:96228df97777b00eef2d5314b8458f50e980331f@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -1721,10 +1611,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Testament of Ann Lee TBC (TBC)
+SUMMARY:The Testament of Ann Lee (15)
 DTSTART;TZID=Europe/London:20260228T200000
 DTEND;TZID=Europe/London:20260228T221700
-UID:0fe56bf4ee8edfa0f8d2776b4cea919006a5fd7f@phoenix-leicester
+UID:d935174c1d415cce4baea1216b079f0836b22962@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -1732,10 +1622,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4078727
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Testament of Ann Lee TBC (TBC)
+SUMMARY:The Testament of Ann Lee (15)
 DTSTART;TZID=Europe/London:20260301T123000
 DTEND;TZID=Europe/London:20260301T144700
-UID:5cbe2b599b9690d75ed961633f47e096fc36aae8@phoenix-leicester
+UID:d1a0a59617a19c855f6578ed7ad71f0c983de8d6@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -1743,10 +1633,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_851
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Testament of Ann Lee TBC (TBC)
+SUMMARY:The Testament of Ann Lee (15)
 DTSTART;TZID=Europe/London:20260301T180000
 DTEND;TZID=Europe/London:20260301T201700
-UID:81380997c57efe5a2a2752d5a31db8186c65a8c5@phoenix-leicester
+UID:bf3d25781f59fd7388ebdaab99379a61eb6631c4@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -1754,10 +1644,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_851
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Testament of Ann Lee TBC (TBC)
+SUMMARY:The Testament of Ann Lee (15)
 DTSTART;TZID=Europe/London:20260302T130000
 DTEND;TZID=Europe/London:20260302T151700
-UID:ca291e64a41c035692280f4f0ed3f856ff1653de@phoenix-leicester
+UID:bdeaf6a05ccc6899080cd75ada238efae25f871a@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -1765,10 +1655,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4078727
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Testament of Ann Lee TBC (TBC)
+SUMMARY:The Testament of Ann Lee (15)
 DTSTART;TZID=Europe/London:20260302T194500
 DTEND;TZID=Europe/London:20260302T220200
-UID:bb42e4d1290fc794e0afcf6be5f3e6f17c471849@phoenix-leicester
+UID:49189da8adcb9839c159d654d76fb70c26443493@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -1776,10 +1666,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4078727
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Testament of Ann Lee TBC (TBC)
+SUMMARY:The Testament of Ann Lee (15)
 DTSTART;TZID=Europe/London:20260305T130000
 DTEND;TZID=Europe/London:20260305T151700
-UID:a9f7dc1abdf7195ed41b8df94b64510db8455c84@phoenix-leicester
+UID:1ab3ab7024d1fa09d175f3d166093561f958a244@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -1787,37 +1677,15 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Testament of Ann Lee TBC (TBC)
+SUMMARY:The Testament of Ann Lee (15)
 DTSTART;TZID=Europe/London:20260305T194500
 DTEND;TZID=Europe/London:20260305T220200
-UID:f68cc3b3b9ec0a95db76eba18c8ac3f0427e2971@phoenix-leicester
+UID:98c1ad9503961cb6aa0741fe750a4f55a7793ddb@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12486427.
  TcsSection_4075334
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Voice of Hind Rajab (15)
-DTSTART;TZID=Europe/London:20260209T153000
-DTEND;TZID=Europe/London:20260209T165900
-UID:c11909f0d5de89668b738b7cba6aad006b344c25@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12496685.
- TcsSection_851
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Voice of Hind Rajab (15)
-DTSTART;TZID=Europe/London:20260209T180000
-DTEND;TZID=Europe/London:20260209T192900
-UID:9f788c4f8bf44330a74d3eb56ed59dd401ac768a@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12486352.
- TcsSection_851
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Voice of Hind Rajab (15)
@@ -1952,17 +1820,6 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4078727
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wasteman – preview screening (18)
-DTSTART;TZID=Europe/London:20260209T193000
-DTEND;TZID=Europe/London:20260209T210000
-UID:ebe8707f69b15b0ce6bd283885c1f6fde66e0769@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12369712.
- TcsSection_528
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wasteman (18)
 DTSTART;TZID=Europe/London:20260227T204500
 DTEND;TZID=Europe/London:20260227T221500
@@ -2073,10 +1930,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wuthering Heights (15)
+SUMMARY:“Wuthering Heights” (15)
 DTSTART;TZID=Europe/London:20260213T131500
 DTEND;TZID=Europe/London:20260213T153100
-UID:c4767958d4b70b371b474353eb3fd40b1a89f157@phoenix-leicester
+UID:c5557f058e93f7c194ca6ab19b2e6a7da122e641@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -2084,10 +1941,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wuthering Heights (15)
+SUMMARY:“Wuthering Heights” (15)
 DTSTART;TZID=Europe/London:20260213T163000
 DTEND;TZID=Europe/London:20260213T184600
-UID:1a0bafacbf1833898029037181203e445b81cbf3@phoenix-leicester
+UID:671bcf146c25a8f13449b5a180e5b5489be0bea6@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -2095,10 +1952,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wuthering Heights (15)
+SUMMARY:“Wuthering Heights” (15)
 DTSTART;TZID=Europe/London:20260213T194500
 DTEND;TZID=Europe/London:20260213T220100
-UID:630fd05bbe92403e693981483f3955b53552d82f@phoenix-leicester
+UID:93aee287dc705823476e0404c5e711729228d8a7@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -2106,10 +1963,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wuthering Heights (15)
+SUMMARY:“Wuthering Heights” (15)
 DTSTART;TZID=Europe/London:20260214T131500
 DTEND;TZID=Europe/London:20260214T153100
-UID:ad7440288673473558abac5bc4a4287281bfc160@phoenix-leicester
+UID:fda8af2a1cf4f7425df38c843cb7389758013691@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -2117,10 +1974,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wuthering Heights (15)
+SUMMARY:“Wuthering Heights” (15)
 DTSTART;TZID=Europe/London:20260214T163000
 DTEND;TZID=Europe/London:20260214T184600
-UID:03dd454db18b35ba343fa4797d989e82681783f0@phoenix-leicester
+UID:f61f785a441288871fc6a0b9ae26610188882076@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -2128,10 +1985,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wuthering Heights (15)
+SUMMARY:“Wuthering Heights” (15)
 DTSTART;TZID=Europe/London:20260214T194500
 DTEND;TZID=Europe/London:20260214T220100
-UID:0599e2c93ce78517fe1248b901a198181146deee@phoenix-leicester
+UID:c91bdc7f8f74a3e1f710d915020f0acbe6a93940@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -2139,10 +1996,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wuthering Heights (15)
+SUMMARY:“Wuthering Heights” (15)
 DTSTART;TZID=Europe/London:20260215T123000
 DTEND;TZID=Europe/London:20260215T144600
-UID:e158e2c05238ca1c712a7409ca96945d2cdc7c59@phoenix-leicester
+UID:da41d103e898ad77add33bde17006f575e5c9f13@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -2150,10 +2007,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_851
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wuthering Heights (15)
+SUMMARY:“Wuthering Heights” (15)
 DTSTART;TZID=Europe/London:20260215T150000
 DTEND;TZID=Europe/London:20260215T171600
-UID:c078fb998a522513119c7bc629445b6d109d513f@phoenix-leicester
+UID:0be7fd88f9458f03b07586f1b3e557c234e6e553@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -2161,10 +2018,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wuthering Heights (15)
+SUMMARY:“Wuthering Heights” (15)
 DTSTART;TZID=Europe/London:20260215T180000
 DTEND;TZID=Europe/London:20260215T201600
-UID:a49fe9d4ba98648d7615c05285603ece294e7d1d@phoenix-leicester
+UID:e40c28bdc49f50275e2a8fa2bf58cd5cbfd0f0e5@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -2172,10 +2029,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wuthering Heights (15)
+SUMMARY:“Wuthering Heights” (15)
 DTSTART;TZID=Europe/London:20260216T131500
 DTEND;TZID=Europe/London:20260216T153100
-UID:c238cb7630d40adc2495be9377776032c6067938@phoenix-leicester
+UID:88a3fb3f005bf18c14613ca82b8d44a86dfedcbf@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -2183,10 +2040,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wuthering Heights (15)
+SUMMARY:“Wuthering Heights” (15)
 DTSTART;TZID=Europe/London:20260216T163000
 DTEND;TZID=Europe/London:20260216T184600
-UID:b96148dbf300e91eaf3d0a03849724a66ffb26ea@phoenix-leicester
+UID:0e385d1df14b876a8c45b2adbfc0f8611c94c58c@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -2194,10 +2051,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wuthering Heights (15)
+SUMMARY:“Wuthering Heights” (15)
 DTSTART;TZID=Europe/London:20260216T194500
 DTEND;TZID=Europe/London:20260216T220100
-UID:f1625bdf4042d9e9295c95e7370a5137fc9f6097@phoenix-leicester
+UID:f472399875793ff4f7db425fe43dcf7199a19615@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -2205,10 +2062,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wuthering Heights (15)
+SUMMARY:“Wuthering Heights” (15)
 DTSTART;TZID=Europe/London:20260219T131500
 DTEND;TZID=Europe/London:20260219T153100
-UID:f87450bdc572a875c925af785f5a7056789c2823@phoenix-leicester
+UID:b9df58b4cb53a8cbe3293b59792ad49dd25f0114@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -2216,10 +2073,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wuthering Heights (15)
+SUMMARY:“Wuthering Heights” (15)
 DTSTART;TZID=Europe/London:20260219T163000
 DTEND;TZID=Europe/London:20260219T184600
-UID:141548fc9231eaa9a673289e47cc895a7d39dee9@phoenix-leicester
+UID:0429bd4a9070a0dc344641f920b61a56528969ab@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -2227,10 +2084,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wuthering Heights (15)
+SUMMARY:“Wuthering Heights” (15)
 DTSTART;TZID=Europe/London:20260219T194500
 DTEND;TZID=Europe/London:20260219T220100
-UID:32aa9eafb9fff8d4cebfdb0e02d557da30e00719@phoenix-leicester
+UID:d67dd466bb459ace0e7d5aa33cf39e3903f0fffe@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -2238,10 +2095,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wuthering Heights (15)
+SUMMARY:“Wuthering Heights” (15)
 DTSTART;TZID=Europe/London:20260220T201500
 DTEND;TZID=Europe/London:20260220T223100
-UID:ccc7f754ded4d33e7b04aa4c8462e3c99b73c781@phoenix-leicester
+UID:234c900de3f04efdde2caca098c0dee200248c85@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -2249,10 +2106,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wuthering Heights (15)
+SUMMARY:“Wuthering Heights” (15)
 DTSTART;TZID=Europe/London:20260221T201500
 DTEND;TZID=Europe/London:20260221T223100
-UID:f0f6a2b7e3c19eb063c476260a77e3ed26b29608@phoenix-leicester
+UID:b5395c48d33bb37602e1fdb3f78861a1e1fc468e@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -2260,10 +2117,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wuthering Heights (15)
+SUMMARY:“Wuthering Heights” (15)
 DTSTART;TZID=Europe/London:20260222T180000
 DTEND;TZID=Europe/London:20260222T201600
-UID:f637aaeca6b8b16a8bcce6e830daac31bab29336@phoenix-leicester
+UID:300ad36ac3d113eca699e171c6f34bb6ce604869@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -2271,10 +2128,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wuthering Heights (15)
+SUMMARY:“Wuthering Heights” (15)
 DTSTART;TZID=Europe/London:20260223T203000
 DTEND;TZID=Europe/London:20260223T224600
-UID:40c1f785a29d41667abb8b038c5b29749b2c3738@phoenix-leicester
+UID:b0538f30363b5ff5c70a5dc977acd57a1668ac30@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -2282,10 +2139,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wuthering Heights (15)
+SUMMARY:“Wuthering Heights” (15)
 DTSTART;TZID=Europe/London:20260226T203000
 DTEND;TZID=Europe/London:20260226T224600
-UID:c2eea1e0f40b2e89ce5c302b3be71c2262ba1e7a@phoenix-leicester
+UID:f9aca64c451c5097b25bd15cc5c4f9dd16b3102f@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
