@@ -1093,17 +1093,6 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_851
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nikola McMurtrie Ruins Your Childhood TBC (TBC)
-DTSTART;TZID=Europe/London:20260215T170000
-DTEND;TZID=Europe/London:20260215T180000
-UID:eab7123cef7d10ecd0e3612d664f075d96f30075@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12257233.
- TcsSection_5078691
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:No Other Choice (15)
 DTSTART;TZID=Europe/London:20260212T164500
 DTEND;TZID=Europe/London:20260212T190400
@@ -1520,6 +1509,18 @@ DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12257255.
+ TcsSection_5078691
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rachel Baker Presents Gwen – This is Not a Pyramid Scheme TBC (T
+ BC)
+DTSTART;TZID=Europe/London:20260215T170000
+DTEND;TZID=Europe/London:20260215T180000
+UID:21b67bb04c0a69309ccd13d1c301476bb38de6f5@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12550576.
  TcsSection_5078691
 END:VEVENT
 BEGIN:VEVENT
