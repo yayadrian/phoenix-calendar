@@ -477,6 +477,17 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Iris On Tour: 2025 LGBTQ+ Film Festival (18)
+DTSTART;TZID=Europe/London:20260330T190000
+DTEND;TZID=Europe/London:20260330T213000
+UID:0ae9887b373a29f7500e045759d51eb33f3821d4@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12609027.
+ TcsSection_4075334
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Is This Thing On? (15)
 DTSTART;TZID=Europe/London:20260219T173000
 DTEND;TZID=Europe/London:20260219T193100
@@ -1179,6 +1190,116 @@ LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12608187.
  TcsSection_335568
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peaky Blinders: The Immortal Man TBC (TBC)
+DTSTART;TZID=Europe/London:20260313T173000
+DTEND;TZID=Europe/London:20260313T192200
+UID:ec39ace4a651ec02b9465b94cdae18cebaf4a0a6@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12511661.
+ TcsSection_4078727
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peaky Blinders: The Immortal Man TBC (TBC)
+DTSTART;TZID=Europe/London:20260313T201500
+DTEND;TZID=Europe/London:20260313T220700
+UID:724f159a88d4fe7e64a037d8eec329778c830975@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12609045.
+ TcsSection_4078727
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peaky Blinders: The Immortal Man TBC (TBC)
+DTSTART;TZID=Europe/London:20260314T173000
+DTEND;TZID=Europe/London:20260314T192200
+UID:95c6bd146ae175eb896e17ae570c2ac38566a1a3@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12511664.
+ TcsSection_851
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peaky Blinders: The Immortal Man TBC (TBC)
+DTSTART;TZID=Europe/London:20260314T203000
+DTEND;TZID=Europe/London:20260314T222200
+UID:6401514e36058b98dbe603bd73dca23ad869b0e5@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12511666.
+ TcsSection_4078727
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peaky Blinders: The Immortal Man TBC (TBC)
+DTSTART;TZID=Europe/London:20260315T123000
+DTEND;TZID=Europe/London:20260315T142200
+UID:5e68b75a0465ea2f6168e665a3d50d327e20d44c@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12511668.
+ TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peaky Blinders: The Immortal Man TBC (TBC)
+DTSTART;TZID=Europe/London:20260315T181500
+DTEND;TZID=Europe/London:20260315T200700
+UID:7f5d8c90046618443e8a44e773de3afab2c88cc1@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12511670.
+ TcsSection_851
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peaky Blinders: The Immortal Man TBC (TBC)
+DTSTART;TZID=Europe/London:20260316T173000
+DTEND;TZID=Europe/London:20260316T192200
+UID:ce839f7e9b18240fb0996f08b4380ee342a77238@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12511782.
+ TcsSection_851
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peaky Blinders: The Immortal Man TBC (TBC)
+DTSTART;TZID=Europe/London:20260316T201500
+DTEND;TZID=Europe/London:20260316T220700
+UID:3a0c57c45866d0b02cbb7ed87dbc80f1da0eeb09@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12511780.
+ TcsSection_851
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peaky Blinders: The Immortal Man TBC (TBC)
+DTSTART;TZID=Europe/London:20260319T173000
+DTEND;TZID=Europe/London:20260319T192200
+UID:4a2ab3bba4b526fc0842dc2a3719516f0ddc99bc@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12511786.
+ TcsSection_851
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peaky Blinders: The Immortal Man TBC (TBC)
+DTSTART;TZID=Europe/London:20260319T201500
+DTEND;TZID=Europe/London:20260319T220700
+UID:34d2292e96d4a1d7060b9e1931e844dab87d7c62@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12511784.
+ TcsSection_851
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pravanya Pillay’s Vaguely Bollywood Themed Work in Progress Show
