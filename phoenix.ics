@@ -334,6 +334,17 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4078727
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hoppers (U)
+DTSTART;TZID=Europe/London:20260404T113000
+DTEND;TZID=Europe/London:20260404T131400
+UID:f1d28140a4f9b1d600034d4552a3817d8b11b053@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12676658.
+ TcsSection_4075334
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:How To Make A Killing (15)
 DTSTART;TZID=Europe/London:20260313T130000
 DTEND;TZID=Europe/London:20260313T144500
