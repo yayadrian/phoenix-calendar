@@ -543,6 +543,17 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:John Woo Double Bill: The Killer + Hard Boiled (18)
+DTSTART;TZID=Europe/London:20260424T190000
+DTEND;TZID=Europe/London:20260424T231500
+UID:c10f587b5c43d421f13fdd80d52b8214f1580ac8@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12755863.
+ TcsSection_851
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:La Grazia (12A)
 DTSTART;TZID=Europe/London:20260320T131500
 DTEND;TZID=Europe/London:20260320T152600
@@ -2217,10 +2228,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4078727
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tristan und Isolde TBC (TBC)
+SUMMARY:Tristan und Isolde (12A)
 DTSTART;TZID=Europe/London:20260321T160000
-DTEND;TZID=Europe/London:20260321T211000
-UID:f226d4ecc4a371fe9d94da17ab228622dbf0d9a2@phoenix-leicester
+DTEND;TZID=Europe/London:20260321T212700
+UID:167486d5c34337d50cd82dd867efeb3740494fd1@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
