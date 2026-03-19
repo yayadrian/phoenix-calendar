@@ -632,6 +632,17 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_851
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lord of the Rings: Extended Editions all-dayer (12A)
+DTSTART;TZID=Europe/London:20260516T110000
+DTEND;TZID=Europe/London:20260517T001500
+UID:8874310459605455823d9752288cbd1dfec9ecc4@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12803051.
+ TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Masculinity in Contemporary Cinema 18+ (18+)
 DTSTART;TZID=Europe/London:20260502T113000
 DTEND;TZID=Europe/London:20260502T170000
@@ -1811,10 +1822,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_851
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Watermelon Woman (15)
+SUMMARY:The Watermelon Woman + Short Film GAZE and Q&A (15)
 DTSTART;TZID=Europe/London:20260323T193000
 DTEND;TZID=Europe/London:20260323T205400
-UID:7b3df8dfd047c3d5a88f44c8290855a3ece5e238@phoenix-leicester
+UID:285d3ac105e75c558860c4087f339b057ee59cee@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
