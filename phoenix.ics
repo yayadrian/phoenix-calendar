@@ -15,6 +15,72 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Arco (PG)
+DTSTART;TZID=Europe/London:20260403T153000
+DTEND;TZID=Europe/London:20260403T165800
+UID:20724ec2a38009d49904c6524da4dea21ffac9f7@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12770015.
+ TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arco (PG)
+DTSTART;TZID=Europe/London:20260403T174500
+DTEND;TZID=Europe/London:20260403T191300
+UID:d4640bff8a9cf7aef08b87b233623ec9939157c4@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12853032.
+ TcsSection_4075334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arco (PG)
+DTSTART;TZID=Europe/London:20260404T171500
+DTEND;TZID=Europe/London:20260404T184300
+UID:3ec299e4e1c8be69a2f7a484a917ccd2693aaada@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12771107.
+ TcsSection_4078727
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arco (PG)
+DTSTART;TZID=Europe/London:20260405T113000
+DTEND;TZID=Europe/London:20260405T125800
+UID:7ae9528ae318ec973953c2ad422142219bbf1ea6@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12770925.
+ TcsSection_4078727
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arco (PG)
+DTSTART;TZID=Europe/London:20260406T180000
+DTEND;TZID=Europe/London:20260406T192800
+UID:d9d86bcf307c05f2f85a69192266dae67b0e60c0@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12771082.
+ TcsSection_4075334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arco (PG)
+DTSTART;TZID=Europe/London:20260409T153000
+DTEND;TZID=Europe/London:20260409T165800
+UID:da12caaf4b89af8e487dc553463fc9dcfeeb588f@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12771084.
+ TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cinema & Cinema-going In Leicester 1900-1939 18+ (18+)
 DTSTART;TZID=Europe/London:20260511T140000
 DTEND;TZID=Europe/London:20260511T160000
@@ -828,6 +894,72 @@ LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12030963.
  TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orwell: 2 + 2 = 5 (15)
+DTSTART;TZID=Europe/London:20260403T201500
+DTEND;TZID=Europe/London:20260403T221400
+UID:413aece0f7f7001ddf27c1296643a21753549b9f@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12770690.
+ TcsSection_4075334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orwell: 2 + 2 = 5 (15)
+DTSTART;TZID=Europe/London:20260404T193000
+DTEND;TZID=Europe/London:20260404T212900
+UID:fe425d3a17f0f1bf5f306f446bdea5191783548f@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12771086.
+ TcsSection_4078727
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orwell: 2 + 2 = 5 (15)
+DTSTART;TZID=Europe/London:20260405T181500
+DTEND;TZID=Europe/London:20260405T201400
+UID:da65b8dfe5095ccb2ce7d8f100ede3cd6f11375a@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12770929.
+ TcsSection_851
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orwell: 2 + 2 = 5 (15)
+DTSTART;TZID=Europe/London:20260406T130000
+DTEND;TZID=Europe/London:20260406T145900
+UID:4cb7524c48bca77848eb0f61a7ebc5fcbae2d8ec@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12853048.
+ TcsSection_851
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orwell: 2 + 2 = 5 (15)
+DTSTART;TZID=Europe/London:20260406T201500
+DTEND;TZID=Europe/London:20260406T221400
+UID:3718c9923f2ab6c1a0d128fd7cfeafe4161b0fac@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12771088.
+ TcsSection_4075334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orwell: 2 + 2 = 5 (15)
+DTSTART;TZID=Europe/London:20260409T180000
+DTEND;TZID=Europe/London:20260409T195900
+UID:d1b3adc72f76e62ac8482f10b0c71a833c8e5356@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12771090.
+ TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Paul Thomas Anderson 18+ (18+)
