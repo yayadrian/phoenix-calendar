@@ -554,6 +554,17 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_851
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Legally Blonde – Pyjama Party (12A)
+DTSTART;TZID=Europe/London:20260627T193000
+DTEND;TZID=Europe/London:20260627T210600
+UID:9f04191b5ec491d501ebaa9c73d302609a6b15bd@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12996584.
+ TcsSection_4075334
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Leicester Jazz House Presents: The Vimala Rowe Quartet N/A (N)
 DTSTART;TZID=Europe/London:20260528T200000
 DTEND;TZID=Europe/London:20260528T223000
@@ -796,6 +807,28 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mystery Film (18)
+DTSTART;TZID=Europe/London:20260522T181500
+DTEND;TZID=Europe/London:20260522T194500
+UID:8952e0344f3051224c3fb6d6833dcebbb4325145@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12996771.
+ TcsSection_4075334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mystery Film (18)
+DTSTART;TZID=Europe/London:20260619T181500
+DTEND;TZID=Europe/London:20260619T194500
+UID:82333435ca32dcbd630a53f83420ee0e1baf4d6b@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12996799.
+ TcsSection_4075334
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NT Live: All My Sons (15)
 DTSTART;TZID=Europe/London:20260416T190000
 DTEND;TZID=Europe/London:20260416T211000
@@ -961,6 +994,39 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_974
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Power To The People: John & Yoko Live in NYC (12A)
+DTSTART;TZID=Europe/London:20260508T201500
+DTEND;TZID=Europe/London:20260508T213600
+UID:cb7d5a61e5c1becf15f87683d2437178347b4d4e@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12996538.
+ TcsSection_4075334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Power To The People: John & Yoko Live in NYC (12A)
+DTSTART;TZID=Europe/London:20260509T181500
+DTEND;TZID=Europe/London:20260509T193600
+UID:65ed333cbe988164070d2df6f4aaa8fd7daba5c9@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12996540.
+ TcsSection_4075334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Power To The People: John & Yoko Live in NYC (12A)
+DTSTART;TZID=Europe/London:20260510T153000
+DTEND;TZID=Europe/London:20260510T165100
+UID:83ddc8fad46861866a60260e6b606ebde7a8f306@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12996543.
+ TcsSection_4078727
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Project Hail Mary (12A)
 DTSTART;TZID=Europe/London:20260416T133000
 DTEND;TZID=Europe/London:20260416T160600
@@ -1091,6 +1157,17 @@ LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12853136.
  TcsSection_851
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Robocop – Uncut 4K Restoration (18)
+DTSTART;TZID=Europe/London:20260626T213000
+DTEND;TZID=Europe/London:20260626T231300
+UID:f21cf33bf46d0721caf5dece6483e409f72fed02@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12996740.
+ TcsSection_4078727
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rose of Nevada TBC (TBC)
