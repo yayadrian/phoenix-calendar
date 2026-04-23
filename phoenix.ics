@@ -489,14 +489,14 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hokum (15)
-DTSTART;TZID=Europe/London:20260507T204500
-DTEND;TZID=Europe/London:20260507T222600
-UID:fc8e6cef59e79fc18b63980f0d40e8582b3565a3@phoenix-leicester
+DTSTART;TZID=Europe/London:20260507T201500
+DTEND;TZID=Europe/London:20260507T215600
+UID:57c6e946ce44a66ba044d84f8e1048bea412a342@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12995793.
- TcsSection_4078727
+ TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:I Saw the TV Glow (15)
