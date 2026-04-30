@@ -2204,6 +2204,17 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ultras (15)
+DTSTART;TZID=Europe/London:20260608T200000
+DTEND;TZID=Europe/London:20260608T212900
+UID:384f22eedf5ce9d0c8ef5e8849c4b158ddfdd446@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13086229.
+ TcsSection_4075334
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Umrao Jaan + Director Q&A (PG)
 DTSTART;TZID=Europe/London:20260509T190000
 DTEND;TZID=Europe/London:20260509T223000
