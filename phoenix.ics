@@ -59,17 +59,6 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Akira – 4K Restoration (15)
-DTSTART;TZID=Europe/London:20260430T203000
-DTEND;TZID=Europe/London:20260430T223500
-UID:5d75b7430fd0d8593ff281b2475946016c69257d@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13034844.
- TcsSection_4075334
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ashes and Diamonds (Popiół I Diament) (12A)
 DTSTART;TZID=Europe/London:20260504T181500
 DTEND;TZID=Europe/London:20260504T195500
@@ -137,17 +126,6 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colours of Time (15)
-DTSTART;TZID=Europe/London:20260430T130000
-DTEND;TZID=Europe/London:20260430T150200
-UID:e3784ef783cc3127540c38e74818154f2544b8c0@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12950573.
- TcsSection_4075334
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Colours of Time (15)
 DTSTART;TZID=Europe/London:20260501T123000
 DTEND;TZID=Europe/London:20260501T143200
 UID:a407445dfc21fe9013206a61d76aded20714c46c@phoenix-leicester
@@ -200,6 +178,17 @@ LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13043471.
  TcsSection_4075334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cronos – 4K Restoration (15)
+DTSTART;TZID=Europe/London:20260523T181500
+DTEND;TZID=Europe/London:20260523T194700
+UID:aa430f6a0fd7469425c1f205014ade13810c9af8@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13043496.
+ TcsSection_851
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cronos – 4K Restoration (15)
@@ -354,17 +343,6 @@ LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_11108397.
  TcsSection_528
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exit 8 (15)
-DTSTART;TZID=Europe/London:20260430T204500
-DTEND;TZID=Europe/London:20260430T222000
-UID:86d26af8c28e1b6a5e2d4666c04d39f129d2da55@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12950563.
- TcsSection_851
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frida Kahlo (12A)
@@ -585,39 +563,6 @@ LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13038677.
  TcsSection_851
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Michael (12A)
-DTSTART;TZID=Europe/London:20260430T133000
-DTEND;TZID=Europe/London:20260430T153700
-UID:3b634e9927c9702ec7a2a1c5bce9e7880382b06d@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12950639.
- TcsSection_528
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Michael (12A)
-DTSTART;TZID=Europe/London:20260430T162500
-DTEND;TZID=Europe/London:20260430T183200
-UID:e8cf9808ec749821e067e95f88d2f48169bad939@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12950641.
- TcsSection_528
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Michael (12A)
-DTSTART;TZID=Europe/London:20260430T193000
-DTEND;TZID=Europe/London:20260430T213700
-UID:19fcd9224a3e639e7647cb731c63b68c15ac122a@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12950643.
- TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Michael (12A)
@@ -849,6 +794,17 @@ LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13043473.
  TcsSection_4078727
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northern Soul: Still Burning (15)
+DTSTART;TZID=Europe/London:20260523T201500
+DTEND;TZID=Europe/London:20260523T214600
+UID:af63aca66e15d678b220bc1620031272e5aae810@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13054735.
+ TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Northern Soul: Still Burning (15)
@@ -1346,17 +1302,6 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rebuilding (PG)
-DTSTART;TZID=Europe/London:20260430T154500
-DTEND;TZID=Europe/London:20260430T172100
-UID:68e022c0414f7c5015fa74802dbf0169f35c74a5@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13034756.
- TcsSection_4075334
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Robocop – Uncut 4K Restoration (18)
 DTSTART;TZID=Europe/London:20260626T213000
 DTEND;TZID=Europe/London:20260626T231300
@@ -1387,6 +1332,17 @@ DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13043469.
+ TcsSection_4075334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Romería (15)
+DTSTART;TZID=Europe/London:20260523T173000
+DTEND;TZID=Europe/London:20260523T192500
+UID:36969ce53feae7a7efc57cb321373e44e72b9787@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13043498.
  TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
@@ -1432,28 +1388,6 @@ LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13043522.
  TcsSection_4078727
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rose of Nevada (15)
-DTSTART;TZID=Europe/London:20260430T131500
-DTEND;TZID=Europe/London:20260430T150900
-UID:1278765412e83333db1e44a079236bac92227b25@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12950551.
- TcsSection_851
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rose of Nevada (15)
-DTSTART;TZID=Europe/London:20260430T180000
-DTEND;TZID=Europe/London:20260430T195400
-UID:0a8c960e7e033959235dab5a8c1028817d9410b6@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12950553.
- TcsSection_851
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rose of Nevada (15)
@@ -1542,17 +1476,6 @@ LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13081199.
  TcsSection_5078691
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stand By Me – 40th Anniversary 4K Restoration (15)
-DTSTART;TZID=Europe/London:20260430T181500
-DTEND;TZID=Europe/London:20260430T194300
-UID:58aa1476d44a79f24cdce23b655326b1f8cae0ce@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13034776.
- TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Street Trash (18)
@@ -1930,28 +1853,6 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The North (15)
-DTSTART;TZID=Europe/London:20260430T130000
-DTEND;TZID=Europe/London:20260430T151100
-UID:38ab37196da99d042faf35d2aad0088544f7b94b@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_12950653.
- TcsSection_4078727
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The North (15)
-DTSTART;TZID=Europe/London:20260430T171500
-DTEND;TZID=Europe/London:20260430T192600
-UID:104c44eb3579037f0479f200ad6a24a853c60678@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13034873.
- TcsSection_4078727
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The North (15)
 DTSTART;TZID=Europe/London:20260501T171500
 DTEND;TZID=Europe/London:20260501T192600
 UID:9a4869ff94c8d34cc6ec871fa98b80a5aae06f17@phoenix-leicester
@@ -2135,17 +2036,6 @@ DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13081197.
- TcsSection_4078727
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Stranger (15)
-DTSTART;TZID=Europe/London:20260430T201500
-DTEND;TZID=Europe/London:20260430T221700
-UID:7ee64879b3c420ac1e85e68c60c871dadf0301b9@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13034832.
  TcsSection_4078727
 END:VEVENT
 BEGIN:VEVENT
