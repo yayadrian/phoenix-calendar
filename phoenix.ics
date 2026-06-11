@@ -402,7 +402,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Disclosure Day (12A)
 DTSTART;TZID=Europe/London:20260612T133000
-DTEND;TZID=Europe/London:20260612T153000
+DTEND;TZID=Europe/London:20260612T155500
 UID:fcba60931e73aaf64f7ed9faa63aa79ae2e33bdf@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
@@ -412,9 +412,9 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Disclosure Day (12A)
-DTSTART;TZID=Europe/London:20260612T173000
-DTEND;TZID=Europe/London:20260612T193000
-UID:35c4ae7961ba79b46b3cd76427d375aa59a80b8e@phoenix-leicester
+DTSTART;TZID=Europe/London:20260612T170000
+DTEND;TZID=Europe/London:20260612T192500
+UID:b5639d45cf34465c4437fb55e98106c3188c2767@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -424,7 +424,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Disclosure Day (12A)
 DTSTART;TZID=Europe/London:20260612T201500
-DTEND;TZID=Europe/London:20260612T221500
+DTEND;TZID=Europe/London:20260612T224000
 UID:b52240415677d837e60871edec294740e3381c23@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
@@ -435,7 +435,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Disclosure Day (12A)
 DTSTART;TZID=Europe/London:20260613T133000
-DTEND;TZID=Europe/London:20260613T153000
+DTEND;TZID=Europe/London:20260613T155500
 UID:a607f9e6db95fa6d42472bd5e733015937512dd7@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
@@ -445,9 +445,9 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Disclosure Day (12A)
-DTSTART;TZID=Europe/London:20260613T171500
-DTEND;TZID=Europe/London:20260613T191500
-UID:3645334d776eaeda65559c39666840af8c77e66d@phoenix-leicester
+DTSTART;TZID=Europe/London:20260613T164500
+DTEND;TZID=Europe/London:20260613T191000
+UID:44b225791dcef68343d5e6926f509419afcd4190@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -457,7 +457,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Disclosure Day (12A)
 DTSTART;TZID=Europe/London:20260613T200000
-DTEND;TZID=Europe/London:20260613T220000
+DTEND;TZID=Europe/London:20260613T222500
 UID:4f50d451dece0d84a8a10b2b85e49b704a3b0e6b@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
@@ -468,7 +468,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Disclosure Day (12A)
 DTSTART;TZID=Europe/London:20260614T123000
-DTEND;TZID=Europe/London:20260614T143000
+DTEND;TZID=Europe/London:20260614T145500
 UID:7ba444afc589e2e7e89b93f63d82184e0ddb9520@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
@@ -479,7 +479,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Disclosure Day (12A)
 DTSTART;TZID=Europe/London:20260614T153000
-DTEND;TZID=Europe/London:20260614T173000
+DTEND;TZID=Europe/London:20260614T175500
 UID:dd46b152fa3d37fabed017f2887ca2892cf79189@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
@@ -490,7 +490,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Disclosure Day (12A)
 DTSTART;TZID=Europe/London:20260614T181500
-DTEND;TZID=Europe/London:20260614T201500
+DTEND;TZID=Europe/London:20260614T204000
 UID:4f94448a51547933e4f507b599703c571527ab84@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
@@ -501,7 +501,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Disclosure Day (12A)
 DTSTART;TZID=Europe/London:20260615T133000
-DTEND;TZID=Europe/London:20260615T153000
+DTEND;TZID=Europe/London:20260615T155500
 UID:fc6d563056bfc876e0af354b93208493245f1a68@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
@@ -512,7 +512,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Disclosure Day (12A)
 DTSTART;TZID=Europe/London:20260615T173000
-DTEND;TZID=Europe/London:20260615T193000
+DTEND;TZID=Europe/London:20260615T195500
 UID:39bd55f92d48a47cf852efb14b72674085dbc9b1@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
@@ -522,9 +522,9 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Disclosure Day (12A)
-DTSTART;TZID=Europe/London:20260615T201500
-DTEND;TZID=Europe/London:20260615T221500
-UID:2a0cbbad893588d39c0f31bf579c154e094196f9@phoenix-leicester
+DTSTART;TZID=Europe/London:20260615T204500
+DTEND;TZID=Europe/London:20260615T231000
+UID:6c847b5d471de28de66603b9501d1b899584cdd2@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -534,7 +534,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Disclosure Day (12A)
 DTSTART;TZID=Europe/London:20260618T130000
-DTEND;TZID=Europe/London:20260618T150000
+DTEND;TZID=Europe/London:20260618T152500
 UID:9194f0c250b2b5043176ac5ad7b70c1c1d139dfd@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
@@ -545,7 +545,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Disclosure Day (12A)
 DTSTART;TZID=Europe/London:20260618T161500
-DTEND;TZID=Europe/London:20260618T181500
+DTEND;TZID=Europe/London:20260618T184000
 UID:0ee719e7835d1d54166257cd0287b0613f9a12f0@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
@@ -556,7 +556,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Disclosure Day (12A)
 DTSTART;TZID=Europe/London:20260618T201500
-DTEND;TZID=Europe/London:20260618T221500
+DTEND;TZID=Europe/London:20260618T224000
 UID:b0ff0f841a09b27b3cecb5b6f3de8992ecc82a13@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
