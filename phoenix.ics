@@ -323,6 +323,17 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_335568
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cinema Paradiso (15)
+DTSTART;TZID=Europe/London:20260705T151500
+DTEND;TZID=Europe/London:20260705T175000
+UID:71bde0b7f1df0bdc0fe85abac29684fc7751201a@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13340621.
+ TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Disclosure Day (12A)
 DTSTART;TZID=Europe/London:20260618T130000
 DTEND;TZID=Europe/London:20260618T152500
