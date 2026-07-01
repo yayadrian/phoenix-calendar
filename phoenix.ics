@@ -51,23 +51,23 @@ BEGIN:VEVENT
 SUMMARY:500 Miles (12A)
 DTSTART;TZID=Europe/London:20260704T124500
 DTEND;TZID=Europe/London:20260704T142700
-UID:a9795382abc0d3633e38e8f180bf7e226c69f5af@phoenix-leicester
+UID:a5b83eab07c61b38221693b9d1ec88fc06da8cc0@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13458829.
- TcsSection_4075334
+ TcsSection_4078727
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:500 Miles (12A)
 DTSTART;TZID=Europe/London:20260704T151500
 DTEND;TZID=Europe/London:20260704T165700
-UID:c527bf3e7d1fcd7f907147ae37495f50049de699@phoenix-leicester
+UID:f5aee0bfe10ce2cdf60b10926b58d60daf34de1b@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13459146.
- TcsSection_4075334
+ TcsSection_4078727
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:500 Miles (12A)
@@ -150,23 +150,23 @@ BEGIN:VEVENT
 SUMMARY:A Private Life (15)
 DTSTART;TZID=Europe/London:20260704T130000
 DTEND;TZID=Europe/London:20260704T144300
-UID:234fa200bfad2923a2a741722e35f6bca43c96da@phoenix-leicester
+UID:5fd5392c79cca39fea263bee70be9c3e6e29c623@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13459148.
- TcsSection_4078727
+ TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Private Life (15)
 DTSTART;TZID=Europe/London:20260704T153000
 DTEND;TZID=Europe/London:20260704T171300
-UID:98a9b5f6c59eb5a6be69752eff1ee56c2d80528a@phoenix-leicester
+UID:42b5f581f87f68bc4cfd545067d2f2f91872ab3d@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13458809.
- TcsSection_4078727
+ TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Private Life (15)
@@ -390,13 +390,13 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:British Comedy Film 18+ (18+)
-DTSTART;TZID=Europe/London:20260907T140000
-DTEND;TZID=Europe/London:20260907T160000
-UID:d2a6c7f715008525eaf89a009b4aff7e597cf9da@phoenix-leicester
+DTSTART;TZID=Europe/London:20261005T140000
+DTEND;TZID=Europe/London:20261005T160000
+UID:d31c6ce574e0a811b3910e89777c129161502da4@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13432061.
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13467480.
  TcsSection_335568
 END:VEVENT
 BEGIN:VEVENT
@@ -739,6 +739,17 @@ LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13343771.
  TcsSection_3574364
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leicester Queer Film Club: Pink Narcissus – 4K Restoration (18)
+DTSTART;TZID=Europe/London:20260821T190000
+DTEND;TZID=Europe/London:20260821T201100
+UID:db3e990d4d68a6845cbfe587a9382260f02fc6dd@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13420295.
+ TcsSection_4078727
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leonora In The Morning Light (15)
@@ -1163,12 +1174,12 @@ BEGIN:VEVENT
 SUMMARY:Nirvanna the Band the Show the Movie (15)
 DTSTART;TZID=Europe/London:20260704T174500
 DTEND;TZID=Europe/London:20260704T192400
-UID:8d9a2a35b8b8eb2e6982b7c3f9cbc453ddfdd44a@phoenix-leicester
+UID:5f29c6ac54217d95a7631bbb17e899b348923680@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13216317.
- TcsSection_4075334
+ TcsSection_4078727
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nirvanna the Band the Show the Movie (15)
