@@ -402,7 +402,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cactus Pears (Sabar Bonda) + Director Q&A (15)
 DTSTART;TZID=Europe/London:20260705T150000
-DTEND;TZID=Europe/London:20260705T165200
+DTEND;TZID=Europe/London:20260705T165300
 UID:40c3559012fc8132a5505deefd4614c0c57ca987@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
