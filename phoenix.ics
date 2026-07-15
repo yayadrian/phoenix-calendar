@@ -2205,17 +2205,6 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4078727
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:True Romance (18)
-DTSTART;TZID=Europe/London:20260813T200000
-DTEND;TZID=Europe/London:20260813T220100
-UID:d2f9a32ba3c6a709e52e847f019afa30a4326d02@phoenix-leicester
-DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
-LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
-URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
- .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13539649.
- TcsSection_4078727
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wine Tasting 18+ (18+)
 DTSTART;TZID=Europe/London:20260724T190000
 DTEND;TZID=Europe/London:20260724T203000
