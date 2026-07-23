@@ -235,6 +235,18 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Exhibition Launch: I Push my Fingers into my Phone’s Eyes N/A (N
+ )
+DTSTART;TZID=Europe/London:20260731T180000
+DTEND;TZID=Europe/London:20260731T200000
+UID:3379126fcd3a67338976cedf0992d9f9db2ef7ee@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13595511.
+ TcsSection_3574364
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Familiar Touch (12A)
 DTSTART;TZID=Europe/London:20260724T180000
 DTEND;TZID=Europe/London:20260724T193200
