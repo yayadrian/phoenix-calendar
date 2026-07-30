@@ -654,10 +654,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_851
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kiki’s Delivery Service – Dub (U)
+SUMMARY:Kiki’s Delivery Service – Dubbed (U)
 DTSTART;TZID=Europe/London:20260828T123000
 DTEND;TZID=Europe/London:20260828T141400
-UID:6add1734c4cdf06bad857822b505bebe5180ec14@phoenix-leicester
+UID:36b5458cb44b9a84d7fcab6be187611daa5bd9a4@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -665,10 +665,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4078727
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kiki’s Delivery Service – Dub (U)
+SUMMARY:Kiki’s Delivery Service – Dubbed (U)
 DTSTART;TZID=Europe/London:20260829T113000
 DTEND;TZID=Europe/London:20260829T131400
-UID:bd1ed0eedb67ee8003470c1c42b47f9ba0c432ee@phoenix-leicester
+UID:b3d53dbd7909abe59ec632b69a2b5f13991883b4@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -676,10 +676,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4078727
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kiki’s Delivery Service – Dub (U)
+SUMMARY:Kiki’s Delivery Service – Dubbed (U)
 DTSTART;TZID=Europe/London:20260830T113000
 DTEND;TZID=Europe/London:20260830T131400
-UID:70f80e0d667ea3030e4007c87c0b22819f528d03@phoenix-leicester
+UID:45a253e07d573e449ef097bf0421471104e44460@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -687,10 +687,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_851
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kiki’s Delivery Service – Dub (U)
+SUMMARY:Kiki’s Delivery Service – Dubbed (U)
 DTSTART;TZID=Europe/London:20260831T123000
 DTEND;TZID=Europe/London:20260831T141400
-UID:e1ad74a3a6d2f0f125e6ef0b130d024d7ba8df1d@phoenix-leicester
+UID:e4930726ec2038b4f86c93a404151d9b41fb9e08@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -698,10 +698,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4078727
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kiki’s Delivery Service – Dub (U)
+SUMMARY:Kiki’s Delivery Service – Dubbed (U)
 DTSTART;TZID=Europe/London:20260903T123000
 DTEND;TZID=Europe/London:20260903T141400
-UID:e4e025c89536fd7e43a95d98fbdb3bf2003837c1@phoenix-leicester
+UID:161417c64613809ab4bd33d674c839c874861e43@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -1581,10 +1581,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Summerween Double Bill – Midsommar & Wicker Man (18)
+SUMMARY:Summerween Double Bill – Midsommar & The Wicker Man (18)
 DTSTART;TZID=Europe/London:20260807T190000
 DTEND;TZID=Europe/London:20260807T231000
-UID:fc08d5240c0e5a772dd9c716b8d7dabcef49b2c8@phoenix-leicester
+UID:485a28015b6e95920087a9690612dbcadeeec64f@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -2021,10 +2021,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Last One For The Road (15)
+SUMMARY:The Last One for the Road (15)
 DTSTART;TZID=Europe/London:20260730T151500
 DTEND;TZID=Europe/London:20260730T165600
-UID:b06e9becd40ad9995b323139bf376bedcc3a886d@phoenix-leicester
+UID:edd7c2662b8f56f4d3732d066c895c0172cf2f92@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
