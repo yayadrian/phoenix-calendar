@@ -898,7 +898,7 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_851
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nimrods: A Green Day Comedy (18)
+SUMMARY:Nimrods: A Green Day Comedy (15)
 DTSTART;TZID=Europe/London:20260813T203000
 DTEND;TZID=Europe/London:20260813T223000
 UID:69c07f957f5726a45295684e6a62610256f64f6d@phoenix-leicester
@@ -909,7 +909,7 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4078727
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nimrods: A Green Day Comedy (18)
+SUMMARY:Nimrods: A Green Day Comedy (15)
 DTSTART;TZID=Europe/London:20260814T194500
 DTEND;TZID=Europe/London:20260814T214500
 UID:038bb9392b51deed051fe16ce8fae4b1ab4c14ff@phoenix-leicester
@@ -1060,6 +1060,61 @@ DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13608755.
+ TcsSection_4075334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paw Patrol: The Dino Movie (U)
+DTSTART;TZID=Europe/London:20260814T123000
+DTEND;TZID=Europe/London:20260814T135800
+UID:e40b8d7672ee29573f4d20514741b8b19322b9e2@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13609666.
+ TcsSection_4075334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paw Patrol: The Dino Movie (U)
+DTSTART;TZID=Europe/London:20260815T113000
+DTEND;TZID=Europe/London:20260815T125800
+UID:6c6000e88fc2794b82683f9c619aa9640f4675fc@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13609868.
+ TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paw Patrol: The Dino Movie (U)
+DTSTART;TZID=Europe/London:20260816T113000
+DTEND;TZID=Europe/London:20260816T125800
+UID:f50ff3064f30cf6c25e7502185705663d6b6000e@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13609954.
+ TcsSection_4075334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paw Patrol: The Dino Movie (U)
+DTSTART;TZID=Europe/London:20260817T123000
+DTEND;TZID=Europe/London:20260817T135800
+UID:bb35d648f254bb23f78550139f375781a62aea1c@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13609961.
+ TcsSection_4075334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paw Patrol: The Dino Movie (U)
+DTSTART;TZID=Europe/London:20260820T123000
+DTEND;TZID=Europe/London:20260820T135800
+UID:a186df931a6b8ff62d0740f99e9068085b164439@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13610009.
  TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
