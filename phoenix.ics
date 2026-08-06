@@ -323,10 +323,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Film and Folklore (PG)
+SUMMARY:Film and Folklore: Song of the Sea (PG)
 DTSTART;TZID=Europe/London:20260816T140000
 DTEND;TZID=Europe/London:20260816T153300
-UID:2cbc48b7d6e935f585d7bb7a1065ede00ab3fcf6@phoenix-leicester
+UID:eaa0e98d8f4d502cb7373e2b6c0a9e0414381801@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
