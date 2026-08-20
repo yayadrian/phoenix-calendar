@@ -887,6 +887,61 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Oasis: Don’t Look Back in Anger (15)
+DTSTART;TZID=Europe/London:20260910T194500
+DTEND;TZID=Europe/London:20260910T214500
+UID:fb3bac3c1c0bdd8b6134cfc0a1e2ad323621f7f6@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13772304.
+ TcsSection_4075334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oasis: Don’t Look Back in Anger (15)
+DTSTART;TZID=Europe/London:20260911T201500
+DTEND;TZID=Europe/London:20260911T221500
+UID:b57da2ce5de0681011660970c0c4e3684a47bb13@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13772306.
+ TcsSection_4078727
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oasis: Don’t Look Back in Anger (15)
+DTSTART;TZID=Europe/London:20260912T201500
+DTEND;TZID=Europe/London:20260912T221500
+UID:284ef96c9250f5df541db7eeb01082a382e14cba@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13772308.
+ TcsSection_4078727
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oasis: Don’t Look Back in Anger (15)
+DTSTART;TZID=Europe/London:20260914T200000
+DTEND;TZID=Europe/London:20260914T220000
+UID:a209079d8a61a972aa9b2dd1002587193dad14cd@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13772310.
+ TcsSection_4078727
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oasis: Don’t Look Back in Anger (15)
+DTSTART;TZID=Europe/London:20260917T201500
+DTEND;TZID=Europe/London:20260917T221500
+UID:b7241189fcab50e7074e540f5f8de4e56e94298d@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13772312.
+ TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Paw Patrol: The Dino Movie (U)
 DTSTART;TZID=Europe/London:20260820T123000
 DTEND;TZID=Europe/London:20260820T135800
@@ -906,6 +961,193 @@ DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13613151.
+ TcsSection_851
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pressure TBC (TBC)
+DTSTART;TZID=Europe/London:20260911T133000
+DTEND;TZID=Europe/London:20260911T151000
+UID:2a4f58f8270412a502bfe7a3896a4d150a54c402@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13772445.
+ TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pressure TBC (TBC)
+DTSTART;TZID=Europe/London:20260911T163000
+DTEND;TZID=Europe/London:20260911T181000
+UID:ced963f19e3ef73cae1af6862a8d907e4a1d13af@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13772447.
+ TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pressure TBC (TBC)
+DTSTART;TZID=Europe/London:20260911T193000
+DTEND;TZID=Europe/London:20260911T211000
+UID:8e8d7ed92168ce0a5864607f8eae67b6a6f25c5a@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13772449.
+ TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pressure TBC (TBC)
+DTSTART;TZID=Europe/London:20260912T121500
+DTEND;TZID=Europe/London:20260912T135500
+UID:670610a6fac043431fb1310dcf36f4af6221ab43@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13772451.
+ TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pressure TBC (TBC)
+DTSTART;TZID=Europe/London:20260912T144500
+DTEND;TZID=Europe/London:20260912T162500
+UID:ba2ae0c90aa15bb88635c0cb6c428a9ea8693b9c@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13773145.
+ TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pressure TBC (TBC)
+DTSTART;TZID=Europe/London:20260912T171500
+DTEND;TZID=Europe/London:20260912T185500
+UID:fcd690fe3d4657acea5ab665237409482f9236c4@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13772453.
+ TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pressure TBC (TBC)
+DTSTART;TZID=Europe/London:20260912T194500
+DTEND;TZID=Europe/London:20260912T212500
+UID:f10daae3d7a9d4a751340a9fc3fef58020f637b6@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13772455.
+ TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pressure TBC (TBC)
+DTSTART;TZID=Europe/London:20260913T123000
+DTEND;TZID=Europe/London:20260913T141000
+UID:db4bec652f73b43c5423926395da49a7d3501995@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13772457.
+ TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pressure TBC (TBC)
+DTSTART;TZID=Europe/London:20260913T153000
+DTEND;TZID=Europe/London:20260913T171000
+UID:c3c1539b701041828047ae38af016071e3fdf967@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13772459.
+ TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pressure TBC (TBC)
+DTSTART;TZID=Europe/London:20260913T183000
+DTEND;TZID=Europe/London:20260913T201000
+UID:9855567c5fed77991200603d7d2137c01ab747db@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13772461.
+ TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pressure TBC (TBC)
+DTSTART;TZID=Europe/London:20260914T133000
+DTEND;TZID=Europe/London:20260914T151000
+UID:0b75c0d954a8a39b2044259aeba32f807c7060b2@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13772463.
+ TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pressure TBC (TBC)
+DTSTART;TZID=Europe/London:20260914T163000
+DTEND;TZID=Europe/London:20260914T181000
+UID:cde3bd1ee8092f94f20d177553050e481f4ca7da@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13772465.
+ TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pressure TBC (TBC)
+DTSTART;TZID=Europe/London:20260914T193000
+DTEND;TZID=Europe/London:20260914T211000
+UID:60bf6f53a69325bbabf933d9ee6d702ac6a60160@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13772467.
+ TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pressure TBC (TBC)
+DTSTART;TZID=Europe/London:20260917T130000
+DTEND;TZID=Europe/London:20260917T144000
+UID:f4448385bd74440224f36bb21a54c689deb1a1d8@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13772469.
+ TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pressure TBC (TBC)
+DTSTART;TZID=Europe/London:20260917T153500
+DTEND;TZID=Europe/London:20260917T171500
+UID:556a8f3345687c6c126a4c9e3ebd6e0c3fb47828@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13772471.
+ TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pressure TBC (TBC)
+DTSTART;TZID=Europe/London:20260917T180000
+DTEND;TZID=Europe/London:20260917T194000
+UID:66eacbb89f0a579cb40b0764cccca5e50673116f@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13773168.
+ TcsSection_851
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pressure TBC (TBC)
+DTSTART;TZID=Europe/London:20260917T203000
+DTEND;TZID=Europe/London:20260917T221000
+UID:026f92f60c4166f94a875ad35688ebebee11a4c6@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13772473.
  TcsSection_851
 END:VEVENT
 BEGIN:VEVENT
@@ -973,6 +1215,17 @@ LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13734296.
  TcsSection_974
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pulp: What Do You Do for an Encore? (12A)
+DTSTART;TZID=Europe/London:20260918T190000
+DTEND;TZID=Europe/London:20260918T203900
+UID:c7299abd2ef955dddfc06d22a346478778210d7d@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13772813.
+ TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:RBO: Alice’s Adventures in Wonderland TBC (TBC)
@@ -1138,6 +1391,17 @@ DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13733725.
+ TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solve-Along-A-Murder-She-Wrote (15)
+DTSTART;TZID=Europe/London:20261211T193000
+DTEND;TZID=Europe/London:20261211T213000
+UID:d0c2f4ebade89ac5ea1d7f7b12a96f8d931b59c5@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13773174.
  TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
