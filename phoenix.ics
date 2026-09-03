@@ -40,12 +40,12 @@ BEGIN:VEVENT
 SUMMARY:Bad Apples (15)
 DTSTART;TZID=Europe/London:20260920T183000
 DTEND;TZID=Europe/London:20260920T201000
-UID:e080531310dad08ed7ced05cf735f3c3e2b8ada7@phoenix-leicester
+UID:f12609a4bbc026355de325244989d7842837b130@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13805019.
- TcsSection_4078727
+ TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bad Apples (15)
@@ -266,6 +266,50 @@ DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13862189.
+ TcsSection_4078727
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coyote Vs. Acme (PG)
+DTSTART;TZID=Europe/London:20260904T131500
+DTEND;TZID=Europe/London:20260904T145800
+UID:b86a93d82d4c7056dd9a239c68a2cd4e348bb2a2@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13862307.
+ TcsSection_4075334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coyote Vs. Acme (PG)
+DTSTART;TZID=Europe/London:20260905T123000
+DTEND;TZID=Europe/London:20260905T141300
+UID:16ff79e47a633a32a3779bfdf940b7f8fe500dc0@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13783185.
+ TcsSection_4075334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coyote Vs. Acme (PG)
+DTSTART;TZID=Europe/London:20260905T153000
+DTEND;TZID=Europe/London:20260905T171300
+UID:d437638fcaaa79e8514f84c98949955d1b301a51@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13783187.
+ TcsSection_4078727
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coyote Vs. Acme (PG)
+DTSTART;TZID=Europe/London:20260906T151500
+DTEND;TZID=Europe/London:20260906T165800
+UID:9cbf59f313976125b8fc65a3b6135623620fd160@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13783189.
  TcsSection_4078727
 END:VEVENT
 BEGIN:VEVENT
@@ -1714,10 +1758,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4078727
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Recovery Street Film Festival TBC (TBC)
+SUMMARY:Recovery Street Film Festival cert. TBC (cert)
 DTSTART;TZID=Europe/London:20260926T140000
 DTEND;TZID=Europe/London:20260926T160000
-UID:5aeed97f7d4849f268d9ae31af05fa1c72db0330@phoenix-leicester
+UID:79b7fc04e40a144bcf82ba82e6178b4d665b0dd8@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -1770,9 +1814,9 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Resident Evil TBC (TBC)
-DTSTART;TZID=Europe/London:20260920T161000
-DTEND;TZID=Europe/London:20260920T174700
-UID:c1cd34e6cc7c8e5ba0176f6a9a08b4defead05d0@phoenix-leicester
+DTSTART;TZID=Europe/London:20260920T161500
+DTEND;TZID=Europe/London:20260920T175200
+UID:8afe548c7697daad0f34ff0a7739dae2deb5ba02@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -1781,14 +1825,14 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Resident Evil TBC (TBC)
-DTSTART;TZID=Europe/London:20260920T183000
-DTEND;TZID=Europe/London:20260920T200700
-UID:ff8a84eb34fcd4b0cd9f2218d55bab38a4c83ddc@phoenix-leicester
+DTSTART;TZID=Europe/London:20260920T184500
+DTEND;TZID=Europe/London:20260920T202200
+UID:6016c9f10e138d25c68ac0d5ff9e7d7a78d54394@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13805017.
- TcsSection_4075334
+ TcsSection_4078727
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Resident Evil TBC (TBC)
