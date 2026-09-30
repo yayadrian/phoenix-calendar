@@ -621,6 +621,17 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:I Love Boosters + DJ & Poetry performance cert. TBC (cert)
+DTSTART;TZID=Europe/London:20261030T193000
+DTEND;TZID=Europe/London:20261030T212300
+UID:9780f97f1063d3f8fc3049fb1d9ae0198f7dcd60@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13945461.
+ TcsSection_4078727
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:It’s Nice Up North + Q&A (U)
 DTSTART;TZID=Europe/London:20261009T193000
 DTEND;TZID=Europe/London:20261009T213000
@@ -652,6 +663,39 @@ LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_14041736.
  TcsSection_4075334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Judas and the Black Messiah + Panel Discussion (15)
+DTSTART;TZID=Europe/London:20261106T190000
+DTEND;TZID=Europe/London:20261106T210600
+UID:c5e5edc5c5652195f5e1ed00861c3a37cf9185b3@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_14041910.
+ TcsSection_851
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ken Russell’s The Devils – 4K Restoration (18)
+DTSTART;TZID=Europe/London:20261030T190000
+DTEND;TZID=Europe/London:20261030T205400
+UID:a134639a15c74048b3425456b3cc083ec2c4503a@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13945481.
+ TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ken Russell’s The Devils – 4K Restoration (18)
+DTSTART;TZID=Europe/London:20261031T201500
+DTEND;TZID=Europe/London:20261031T220900
+UID:133ea43073bc88e671b2f6756291876961318fd6@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13945483.
+ TcsSection_851
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leicester Jazz House Presents: Alina Bzhezhinska & Tony Kofi N/A (
@@ -1416,6 +1460,17 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Bride of Frankenstein (PG)
+DTSTART;TZID=Europe/London:20261011T153000
+DTEND;TZID=Europe/London:20261011T164500
+UID:d142b8345ea4fd47631ddafe9e0e9d006559d77d@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_14041785.
+ TcsSection_4078727
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Cycle of Love (12A)
 DTSTART;TZID=Europe/London:20261001T150000
 DTEND;TZID=Europe/London:20261001T163800
@@ -1425,6 +1480,17 @@ LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13983082.
  TcsSection_4078727
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Mitchells Vs. The Machines (U)
+DTSTART;TZID=Europe/London:20261010T114500
+DTEND;TZID=Europe/London:20261010T133400
+UID:4a5d65294b1508cce010d62f3a317c78648c5ee8@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13944692.
+ TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:RBO: The Nutcracker (12A)
