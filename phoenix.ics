@@ -886,10 +886,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MET: Macbeth TBC (TBC)
+SUMMARY:MET: Macbeth (12A)
 DTSTART;TZID=Europe/London:20261017T180000
 DTEND;TZID=Europe/London:20261017T212900
-UID:50751d1659c8115f5fc72127d94016be08edf4bc@phoenix-leicester
+UID:01c6b1edbb0a474dd6c86a3760230bbbd11a0b39@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
@@ -1048,6 +1048,72 @@ DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13725111.
+ TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: Hay Fever (12A)
+DTSTART;TZID=Europe/London:20270114T190000
+DTEND;TZID=Europe/London:20270114T214000
+UID:e9b01413720dc948a87c01ce9ec6b3afa26b9340@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_14089087.
+ TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: Hay Fever (12A)
+DTSTART;TZID=Europe/London:20270116T171500
+DTEND;TZID=Europe/London:20270116T195500
+UID:d2a233b08a509c431bdf76ae8059d9e58457ce56@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_14089150.
+ TcsSection_4075334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: Hay Fever (12A)
+DTSTART;TZID=Europe/London:20270117T151500
+DTEND;TZID=Europe/London:20270117T175500
+UID:a0b5e9d33fb23db46756d95ff84fb7b6a8ac481f@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_14089103.
+ TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: The Motive and the Cue (15)
+DTSTART;TZID=Europe/London:20270218T190000
+DTEND;TZID=Europe/London:20270218T220000
+UID:230d5b018f57a784d9db6ebfe4502684d1793934@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_14089124.
+ TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: The Motive and the Cue (15)
+DTSTART;TZID=Europe/London:20270220T170000
+DTEND;TZID=Europe/London:20270220T200000
+UID:92a2955ee697ff2ad1f44e072c6596cd8020ba59@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_14089132.
+ TcsSection_4075334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: The Motive and the Cue (15)
+DTSTART;TZID=Europe/London:20270221T150000
+DTEND;TZID=Europe/London:20270221T180000
+UID:511f6152402bc1a005947129fb35e8eece584cf3@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_14089140.
  TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
