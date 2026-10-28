@@ -15,7 +15,7 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Amazing Grace + Q&A (18)
+SUMMARY:Amazing Grace + Q&A (15)
 DTSTART;TZID=Europe/London:20261102T190000
 DTEND;TZID=Europe/London:20261102T202500
 UID:e93d4c2977a0f70f1563eca5237ff8092b3ba233@phoenix-leicester
@@ -79,6 +79,17 @@ LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_14224948.
  TcsSection_4078727
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christmas Wreath-Making Workshop N/A (N)
+DTSTART;TZID=Europe/London:20261129T173000
+DTEND;TZID=Europe/London:20261129T193000
+UID:22dd231346660bba6d1f19b0d09c7f0540546b29@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_14236365.
+ TcsSection_5078691
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Doctor Who: The Satan Pit (12A)
@@ -1426,10 +1437,10 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_4078727
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:We\, The Hated + Director Q&A TBC (TBC)
+SUMMARY:We\, The Hated + Director Q&A (15)
 DTSTART;TZID=Europe/London:20261123T190000
 DTEND;TZID=Europe/London:20261123T202900
-UID:da730cec0a695c35e11c5807f3fa168aad129552@phoenix-leicester
+UID:004c2b18bbd200b8470d0eef4242382cce9fc840@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
