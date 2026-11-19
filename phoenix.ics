@@ -2129,6 +2129,17 @@ URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Shop Around the Corner (PG)
+DTSTART;TZID=Europe/London:20261210T191500
+DTEND;TZID=Europe/London:20261210T205400
+UID:545fcaa5a4f929135e9fd5969395ad7192f0b20c@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_14401862.
+ TcsSection_528
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Snowman + Enderby Band Live accompaniment (U)
 DTSTART;TZID=Europe/London:20261220T140000
 DTEND;TZID=Europe/London:20261220T150000
