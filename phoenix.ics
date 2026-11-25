@@ -84,12 +84,12 @@ BEGIN:VEVENT
 SUMMARY:After Eight: The Story of Satpal Ram + Q&A 18+ (18+)
 DTSTART;TZID=Europe/London:20261126T180000
 DTEND;TZID=Europe/London:20261126T200000
-UID:963535086bad07e3ad98727a1d8a8694332c1619@phoenix-leicester
+UID:d01e8499e7a597676151a52105cca7af954f0bf5@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_13947948.
- TcsSection_4075334
+ TcsSection_851
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All Rivers Spill Their Stories to the Sea (12A)
@@ -877,12 +877,12 @@ BEGIN:VEVENT
 SUMMARY:Fjord (15)
 DTSTART;TZID=Europe/London:20261126T171500
 DTEND;TZID=Europe/London:20261126T194100
-UID:9ecc13d2e5e6ba7442cc3ed67cc1b763c85d41c0@phoenix-leicester
+UID:7d2ad1cd154719a33a94ea1560707a8900da588b@phoenix-leicester
 DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
 LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_14256798.
- TcsSection_851
+ TcsSection_4075334
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fjord (15)
@@ -2215,6 +2215,17 @@ LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
 URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
  .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_14456490.
  TcsSection_4078727
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THIS SYMPHONY MAY CONTAIN HOPE. (15)
+DTSTART;TZID=Europe/London:20261213T181500
+DTEND;TZID=Europe/London:20261213T203000
+UID:13bc835528601741e02d14f45763d4fb5150de93@phoenix-leicester
+DESCRIPTION:Leicester's Independent Cinema\, Art Centre and Café Bar
+LOCATION:Phoenix\, 4 Midland Street\, Leicester LE1 1TG
+URL:https://tickets.phoenix.org.uk/PhoenixCinemaLeicester.dll/TSelectItems
+ .waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_14457085.
+ TcsSection_528
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Thunderbirds Double Bill: Atlantic Inferno & Attack of the Alligat
